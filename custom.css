@@ -14,4 +14,8 @@ Override any class you want and it will change default styling to suit your need
 START OVERRIDING / ADDING NEW CLASSES BELOW THIS LINE */
 
 
+.car_properties li.fuel span { background-position: 0 -48px }
+.car_properties li.roof_rack span { background-position: 0 -64 }
+.car_properties li.air_con span { background-position: 0 -80px }
+
 
