@@ -43,4 +43,16 @@ function custom_car_seats() {
 	return $seats;
 }
 
-
+add_filter('bizz_car_doors', 'custom_car_doors');
+function custom_car_doors() {
+	$doors = array(
+		array('name' => '1', 'value' => '1'),
+		array('name' => '2', 'value' => '2'),
+		array('name' => '3', 'value' => '3'),
+		array('name' => '4', 'value' => '4'),
+		array('name' => '5', 'value' => '5'),
+		array('name' => '6', 'value' => '6'),
+	);
+ 
+	return $doors;
+}
