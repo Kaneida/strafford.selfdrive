@@ -21,7 +21,6 @@ START REMOVING or ADDING NEW ACTIONS BELOW THIS LINE */
 add_filter('bizz_car_seats', 'custom_car_seats');
 function custom_car_seats() {
 	$seats = array(
-		array('name' => '1', 'value' => '1'),
 		array('name' => '2', 'value' => '2'),
 		array('name' => '3', 'value' => '3'),
 		array('name' => '4', 'value' => '4'),
@@ -46,7 +45,6 @@ function custom_car_seats() {
 add_filter('bizz_car_doors', 'custom_car_doors');
 function custom_car_doors() {
 	$doors = array(
-		array('name' => '1', 'value' => '1'),
 		array('name' => '2', 'value' => '2'),
 		array('name' => '3', 'value' => '3'),
 		array('name' => '4', 'value' => '4'),
