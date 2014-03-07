@@ -54,3 +54,17 @@ function custom_car_doors() {
  
 	return $doors;
 }
+
+function modify_contact_methods($profile_fields) {
+
+	$profile_fields['twitter'] = 'Twitter Username';
+	$profile_fields['facebook'] = 'Facebook URL';
+	$profile_fields['gplus'] = 'Google+ URL';
+
+
+	unset($profile_fields['aim']);
+
+	return $profile_fields;
+
+}
+add_filter('user_contactmethods', 'modify_contact_methods');
