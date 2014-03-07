@@ -63,6 +63,34 @@ function modify_contact_methods($profile_fields) {
 
 	$profile_fields['gender'] = 'Gender';
 	$profile_fields['occupation'] = 'Occupation';
+	$profile_fields['dob'] = 'DOB';
+	$profile_fields['address1'] = 'Address 1';
+	$profile_fields['address2'] = 'Address 2';
+	$profile_fields['town'] = 'Town';
+	$profile_fields['county'] = 'County';
+	$profile_fields['postcode'] = 'Postcode';
+	$profile_fields['phone'] = 'Phone';
+	$profile_fields['mobile'] = 'Mobile';
+	$profile_fields['fax'] = 'Fax';
+	$profile_fields['nationality'] = 'Nationality';
+	$profile_fields['licence_num'] = 'Licence Number';
+	$profile_fields['licence_nat'] = 'Licence Nationality';
+	$profile_fields['lenght_held'] = 'Length Held';
+	$profile_fields['expiry'] = 'Expires';
+	$profile_fields['full_licence'] = 'Full Driving Licence?';
+	$profile_fields['accident_claim'] = 'Accident Claim?';
+	$profile_fields['disqual'] = 'Disqualification?';
+	$profile_fields['motor_ins'] = 'Motor Insurance?';
+	$profile_fields['med_con'] = 'Medical Condition?';
+	$profile_fields['vat'] = 'VAT Receipt?';
+	$profile_fields['notes'] = 'Notes';
+	
+	
+	
+	
+	
+	
+	
 
 
 	unset($profile_fields['aim']);
