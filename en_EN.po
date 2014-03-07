@@ -1,0 +1,4630 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Theme Translation File\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-30 17:35+0100\n"
+"PO-Revision-Date: 2014-03-07 14:43+0100\n"
+"Last-Translator: kaneida <kaneida@icloud.com>\n"
+"Language-Team: BizzThemes <info@bizzthemes.com>\n"
+"Language: en_SI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ../\n"
+"X-Generator: Poedit 1.6.2\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../comments.php:10
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: ../comments.php:14
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../lib_frame/frame_ajax.php:289
+#: ../lib_frame/frame_ajax.php:308
+msgid "No posts found."
+msgstr ""
+
+#: ../lib_frame/frame_ajax.php:320
+msgid "Your widgetized sidebars have been successfully recovered."
+msgstr ""
+
+#: ../lib_frame/frame_ajax.php:324
+msgid "Your widgetized sidebars backup has been removed."
+msgstr ""
+
+#: ../lib_frame/frame_functions.php:663
+#: ../lib_frame/frame_functions.php:704
+msgid "week"
+msgstr ""
+
+#: ../lib_frame/frame_functions.php:663
+#: ../lib_frame/frame_functions.php:664
+#: ../lib_frame/frame_functions.php:667
+#: ../lib_frame/frame_functions.php:668
+#: ../lib_frame/frame_functions.php:671
+#: ../lib_frame/frame_functions.php:672
+#: ../lib_frame/frame_functions.php:675
+#: ../lib_frame/frame_functions.php:678
+#: ../lib_frame/frame_functions.php:695
+#: ../lib_frame/frame_functions.php:699
+#: ../lib_frame/frame_functions.php:703
+#: ../lib_frame/frame_functions.php:707
+#: ../lib_frame/frame_functions.php:711
+#: ../lib_frame/frame_functions.php:715
+msgid "s"
+msgstr ""
+
+#: ../lib_frame/frame_functions.php:664
+#: ../lib_frame/frame_functions.php:667
+#: ../lib_frame/frame_functions.php:708
+msgid "day"
+msgstr ""
+
+#: ../lib_frame/frame_functions.php:668
+#: ../lib_frame/frame_functions.php:671
+#: ../lib_frame/frame_functions.php:712
+msgid "hour"
+msgstr ""
+
+#: ../lib_frame/frame_functions.php:672
+#: ../lib_frame/frame_functions.php:675
+#: ../lib_frame/frame_functions.php:678
+#: ../lib_frame/frame_functions.php:716
+msgid "minute"
+msgstr ""
+
+#: ../lib_frame/frame_functions.php:682
+msgid "Posted"
+msgstr ""
+
+#: ../lib_frame/frame_functions.php:682
+#: ../lib_frame/frame_functions.php:696
+#: ../lib_frame/frame_functions.php:700
+#: ../lib_frame/frame_functions.php:704
+#: ../lib_frame/frame_functions.php:708
+#: ../lib_frame/frame_functions.php:712
+#: ../lib_frame/frame_functions.php:716
+#: ../lib_frame/frame_functions.php:718
+msgid "ago"
+msgstr ""
+
+#: ../lib_frame/frame_functions.php:696
+msgid "year"
+msgstr ""
+
+#: ../lib_frame/frame_functions.php:700
+msgid "month"
+msgstr ""
+
+#: ../lib_frame/frame_functions.php:718
+msgid "moments"
+msgstr ""
+
+#: ../lib_frame/frame_functions.php:1080
+msgid "Sending..."
+msgstr ""
+
+#: ../lib_frame/frame_functions.php:1729
+msgid "Theme Options"
+msgstr ""
+
+#: ../lib_frame/frame_functions.php:1739
+#: ../lib_frame/frame_options_api.php:127
+#: ../lib_frame/frame_options_api.php:843
+#: ../lib_frame/classes/frame_tools.php:288
+#: ../lib_frame/classes/frame_tools.php:303
+msgid "Builder"
+msgstr ""
+
+#: ../lib_frame/frame_functions.php:1741
+#: ../lib_frame/frame_options_api.php:129
+#: ../lib_frame/frame_options_api.php:848
+#: ../lib_frame/classes/frame_tools.php:292
+#: ../lib_frame/classes/frame_tools.php:310
+msgid "Framework"
+msgstr ""
+
+#: ../lib_frame/frame_functions.php:1744
+#: ../lib_frame/frame_options_api.php:132
+#: ../lib_frame/frame_options_api.php:853
+#: ../lib_frame/classes/frame_tools.php:296
+#: ../lib_frame/classes/frame_tools.php:314
+msgid "Design"
+msgstr ""
+
+#: ../lib_frame/frame_functions.php:1747
+#: ../lib_frame/frame_options_api.php:868
+msgid "License"
+msgstr ""
+
+#: ../lib_frame/frame_functions.php:1750
+#: ../lib_frame/frame_options_api.php:135
+#: ../lib_frame/frame_options_api.php:858
+msgid "Editor"
+msgstr ""
+
+#: ../lib_frame/frame_functions.php:1753
+#: ../lib_frame/frame_options_api.php:141
+#: ../lib_frame/frame_options_api.php:873
+msgid "Backup"
+msgstr ""
+
+#: ../lib_frame/frame_functions.php:1756
+#: ../lib_frame/frame_options_api.php:878
+msgid "Update"
+msgstr ""
+
+#: ../lib_frame/frame_html_content.php:109
+msgid "Search:"
+msgstr ""
+
+#: ../lib_frame/frame_html_content.php:129
+msgid "Error 404 | Nothing found!"
+msgstr ""
+
+#: ../lib_frame/frame_html_content.php:155
+msgid "Sorry, but you are looking for something that is not here."
+msgstr ""
+
+#: ../lib_frame/frame_html_content.php:156
+msgid "Surfin&#8217; ain&#8217;t easy, and right now, you&#8217;re lost at sea. But don&#8217;t worry; simply pick an option from the list below, and you&#8217;ll be back out riding the waves of the Internet in no time."
+msgstr ""
+
+#: ../lib_frame/frame_html_content.php:158
+msgid "Hit the &#8220;back&#8221; button on your browser. It&#8217;s perfect for situations like this!"
+msgstr ""
+
+#: ../lib_frame/frame_html_content.php:159
+#, php-format
+msgid "Head on over to the <a href=\"%s\" rel=\"nofollow\">home page</a>."
+msgstr ""
+
+#: ../lib_frame/frame_html_content.php:160
+msgid "You will find what you are looking for."
+msgstr ""
+
+#: ../lib_frame/frame_html_content.php:195
+#: ../lib_frame/widgets/widget-comments.php:418
+#: ../lib_theme/theme_functions.php:91
+msgid "No Comments"
+msgstr ""
+
+#: ../lib_frame/frame_html_content.php:197
+#: ../lib_theme/theme_functions.php:93
+#, php-format
+msgid "%d Comments"
+msgstr ""
+
+#: ../lib_frame/frame_html_content.php:199
+#: ../lib_frame/widgets/widget-comments.php:420
+#: ../lib_theme/theme_functions.php:95
+msgid "One Comment"
+msgstr ""
+
+#: ../lib_frame/frame_html_content.php:204
+#: ../lib_frame/widgets/widget-comments.php:242
+#: ../lib_frame/widgets/widget-comments.php:613
+#: ../lib_theme/theme_functions.php:100
+msgid "Comments are closed."
+msgstr ""
+
+#: ../lib_frame/frame_html_content.php:360
+msgid "First"
+msgstr ""
+
+#: ../lib_frame/frame_html_content.php:385
+msgid "Last"
+msgstr ""
+
+#: ../lib_frame/frame_html_content.php:421
+msgid "&laquo; First"
+msgstr ""
+
+#: ../lib_frame/frame_html_content.php:422
+msgid "Last &raquo;"
+msgstr ""
+
+#: ../lib_frame/frame_html_content.php:423
+msgid "&raquo;"
+msgstr ""
+
+#: ../lib_frame/frame_html_content.php:424
+msgid "&laquo;"
+msgstr ""
+
+#: ../lib_frame/frame_html_content.php:425
+#: ../lib_frame/frame_html_content.php:426
+msgid "..."
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:26
+#: ../lib_frame/legacy/frame_layout.php:26
+msgid "Apply"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:31
+#: ../lib_frame/legacy/frame_layout.php:31
+msgid "Show on screen"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:34
+#: ../lib_frame/legacy/frame_layout.php:34
+msgid "Show Inactive Widgets"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:60
+#: ../lib_frame/legacy/frame_layout.php:60
+msgid "Cheatin&#8217; uh?"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:84
+#: ../lib_frame/legacy/frame_layout.php:84
+msgid "Template Builder"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:94
+#: ../lib_frame/legacy/frame_layout.php:94
+msgid "Inactive Widgets"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:97
+#: ../lib_frame/legacy/frame_layout.php:97
+msgid "Drag widgets here to remove them from the sidebar but keep their settings."
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:115
+#: ../lib_frame/legacy/frame_layout.php:128
+msgid "Available Widgets"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:115
+#: ../lib_frame/legacy/frame_layout.php:128
+msgid "Deactivate"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:119
+#: ../lib_frame/legacy/frame_layout.php:132
+msgid "Drag widgets from here to a template on the right to activate them. Drag widgets back here to deactivate them and delete their settings."
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:157
+#: ../lib_frame/legacy/frame_layout.php:110
+msgid "Select a template to edit:"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:226
+#: ../lib_frame/frame_layout.php:231
+#: ../lib_frame/legacy/frame_layout.php:226
+#: ../lib_frame/legacy/frame_layout.php:231
+msgid "Disable"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:236
+#: ../lib_frame/legacy/frame_layout.php:236
+msgid "Enable"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:244
+#: ../lib_frame/legacy/frame_layout.php:244
+msgid "Click to toggle"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:247
+#: ../lib_frame/legacy/frame_layout.php:247
+msgid "disabled"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:280
+msgid "Cancel"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:281
+msgid "Add Widget"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:677
+#: ../lib_frame/legacy/frame_layout.php:674
+msgid "Inactive Bizz Widgets"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:817
+#: ../lib_frame/legacy/frame_layout.php:814
+msgid "Site-wide"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:823
+#: ../lib_frame/legacy/frame_layout.php:820
+#: ../lib_theme/woocommerce/woocommerce-mod.php:41
+msgid "Home"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:831
+#: ../lib_frame/legacy/frame_layout.php:828
+msgid "Single"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:839
+#: ../lib_frame/legacy/frame_layout.php:836
+msgid "Archive"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:847
+#: ../lib_frame/legacy/frame_layout.php:844
+#: ../lib_frame/widgets/widget-search.php:26
+msgid "Search"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:855
+#: ../lib_frame/legacy/frame_layout.php:852
+msgid "404"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:863
+#: ../lib_frame/legacy/frame_layout.php:860
+msgid "Page templates"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:1000
+#: ../lib_frame/legacy/frame_layout.php:997
+msgid "Date archives"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:1008
+#: ../lib_frame/legacy/frame_layout.php:1005
+msgid "Author archives"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:1017
+#: ../lib_frame/legacy/frame_layout.php:1014
+msgid "Category archives"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:1026
+#: ../lib_frame/legacy/frame_layout.php:1023
+msgid "Tag archives"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:1115
+#: ../lib_frame/legacy/frame_layout.php:1112
+#: ../lib_theme/booking/post-type-bookings.php:429
+#: ../lib_theme/booking/post-type-bookings.php:445
+#: ../lib_theme/booking/post-type-bookings.php:458
+#: ../lib_theme/booking/post-type-bookings.php:474
+#: ../lib_theme/booking/post-type-bookings.php:753
+#: ../lib_theme/booking/step4.php:20
+#: ../lib_theme/booking/step4.php:68
+#: ../lib_theme/booking/step4.php:81
+#: ../lib_theme/booking/step4.php:140
+#: ../lib_theme/booking/step4.php:155
+#: ../lib_theme/booking/step4.php:175
+#: ../lib_theme/booking/step4.php:185
+msgid "-- Select --"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:1117
+#: ../lib_frame/legacy/frame_layout.php:1114
+msgid "Site-wide <i>(index.php)</i>"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:1119
+#: ../lib_frame/legacy/frame_layout.php:1116
+msgid "Home <i>(home.php)</i>"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:1121
+#: ../lib_frame/legacy/frame_layout.php:1118
+#, php-format
+msgid "Single %2$s with ID: %1$s <i>(single-%1$s.php)</i>"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:1123
+#: ../lib_frame/legacy/frame_layout.php:1120
+msgid "All single posts <i>(single.php)</i>"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:1125
+#: ../lib_frame/legacy/frame_layout.php:1122
+#, php-format
+msgid "All single posts of post type: %1$s <i>(single-%1$s.php)</i>"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:1127
+#: ../lib_frame/legacy/frame_layout.php:1124
+msgid "All archives <i>(archive.php)</i>"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:1129
+#: ../lib_frame/legacy/frame_layout.php:1126
+#, php-format
+msgid "All archives of post type: %1$s <i>(archive-%1$s.php)</i>"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:1131
+#: ../lib_frame/legacy/frame_layout.php:1128
+msgid "Template for all date archives <i>(date.php)</i>"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:1133
+#: ../lib_frame/legacy/frame_layout.php:1130
+#, php-format
+msgid "Template for author ID: %1$s, <i>(author-%1$s.php)</i>"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:1135
+#: ../lib_frame/legacy/frame_layout.php:1132
+msgid "Template for all author archives <i>(author.php)</i>"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:1137
+#: ../lib_frame/legacy/frame_layout.php:1134
+#, php-format
+msgid "Template for category ID: %1$s, <i>(category-%1$s.php)</i>"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:1139
+#: ../lib_frame/legacy/frame_layout.php:1136
+msgid "Template for all category archives <i>(category.php)</i>"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:1141
+#: ../lib_frame/legacy/frame_layout.php:1138
+msgid "Template for all tag archives <i>(tag.php)</i>"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:1143
+#: ../lib_frame/legacy/frame_layout.php:1140
+#, php-format
+msgid "Template for taxonomy: %1$s <i>(taxonomy-%1$s.php)</i>"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:1145
+#: ../lib_frame/legacy/frame_layout.php:1142
+msgid "Search results <i>(search.php)</i>"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:1147
+#: ../lib_frame/legacy/frame_layout.php:1144
+msgid "404 error <i>(404.php)</i>"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:1149
+#: ../lib_frame/legacy/frame_layout.php:1146
+#, php-format
+msgid "Page template: %2$s <i>(%1$s)</i>"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:1151
+#: ../lib_frame/legacy/frame_layout.php:1148
+msgid "All custom page templates <i>(page.php)</i>"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:1270
+#: ../lib_frame/legacy/frame_layout.php:1267
+msgid "Not part of any template."
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:1271
+#: ../lib_frame/legacy/frame_layout.php:1268
+msgid "Template where this widget was originally added"
+msgstr ""
+
+#: ../lib_frame/frame_layout.php:1282
+#: ../lib_frame/legacy/frame_layout.php:1279
+#, php-format
+msgid "Template: %1$s"
+msgstr ""
+
+#: ../lib_frame/frame_license.php:95
+msgid "License API Key"
+msgstr ""
+
+#: ../lib_frame/frame_license.php:103
+msgid "Validate theme API key and open all of your themes potential."
+msgstr ""
+
+#: ../lib_frame/frame_license.php:113
+#, php-format
+msgid "Your %s API key has been successfully validated."
+msgstr ""
+
+#: ../lib_frame/frame_metaboxes_api.php:421
+#: ../lib_frame/frame_taxonomies_api.php:307
+msgid "Choose an image"
+msgstr ""
+
+#: ../lib_frame/frame_metaboxes_api.php:423
+#: ../lib_frame/frame_taxonomies_api.php:309
+msgid "Use image"
+msgstr ""
+
+#: ../lib_frame/frame_metaboxes_api.php:435
+#: ../lib_frame/frame_taxonomies_api.php:279
+#: ../lib_frame/frame_taxonomies_api.php:321
+msgid "Remove Image"
+msgstr ""
+
+#: ../lib_frame/frame_metaboxes_api.php:630
+msgid "Please Try Again"
+msgstr ""
+
+#: ../lib_frame/frame_metaboxes_api.php:647
+msgid "Remove Embed"
+msgstr ""
+
+#: ../lib_frame/frame_metaboxes_api.php:653
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:17
+msgid "General Settings"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:20
+msgid "Logo &amp; Favicon"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:24
+msgid "Choose Your Custom Logo"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:25
+msgid "Upload your image or paste the full URL address to it next to upload button. <span class=\"important\">Uploaded logo will be applied to Logo widget, which you may edit separately inside Layout control section, but your uploaded logo will be visible by default.</span>"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:33
+msgid "Choose Your Favicon Image"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:34
+msgid "Upload your favicon image or paste the full URL address to it next to upload button. Use 16x16px image, if you don&#8217;t have one use free <a href=\""
+msgstr ""
+
+#: ../lib_frame/frame_options.php:44
+msgid "Syndication / Feed"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:48
+msgid "RSS Feed Address"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:49
+msgid "If you are using a service like Feedburner to manage your RSS feed, enter full URL to your feed into box above. If you&#8217;d prefer to use the default WordPress feed, simply leave this box blank."
+msgstr ""
+
+#: ../lib_frame/frame_options.php:59
+msgid "Image Setup"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:63
+msgid "Display Thumbnails?"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:64
+msgid "Display Thumbnails"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:65
+msgid "If you want to show image thumbnails, check this option."
+msgstr ""
+
+#: ../lib_frame/frame_options.php:73
+msgid "Resize Images Dynamically?"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:74
+msgid "Resize Images Dynamically"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:75
+msgid "Resize images with thumb.php script &rarr; smooth pics ;)"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:83
+msgid "Automatic Image Handling?"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:84
+msgid "Automatic Image Handling"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:85
+msgid "If no image in the custom field then first uploaded image is used."
+msgstr ""
+
+#: ../lib_frame/frame_options.php:93
+msgid "Show in RSS feed?"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:94
+msgid "Show in RSS feed"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:95
+msgid "Show thumbnail images in RSS feeds."
+msgstr ""
+
+#: ../lib_frame/frame_options.php:105
+msgid "Stats and Scripts"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:109
+msgid "Header Scripts (just before the <code>&lt;/head&gt;</code> tag)"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:110
+msgid "If you need to add scripts to your header (like <a href=\""
+msgstr ""
+
+#: ../lib_frame/frame_options.php:118
+msgid "Body Scripts (just after the <code>&lt;body&gt;</code> tag)"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:119
+msgid "If you need to add scripts to your body (like <a href=\""
+msgstr ""
+
+#: ../lib_frame/frame_options.php:127
+msgid "Footer Scripts (just before the <code>&lt;/body&gt;</code> tag)"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:128
+msgid "If you need to add scripts to your footer (like <a href=\""
+msgstr ""
+
+#: ../lib_frame/frame_options.php:142
+msgid "Framework Branding"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:145
+msgid "Footer Logo"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:151
+msgid "Front-end Branding Options"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:152
+msgid "By applying front-end branding options users will acknowledge this website as your own product, with your own logo and optional backlink to theme developer. As this is GPL licensed theme, leave credits in code intact.<span class=\"important\">These options are applied to BizzThemes Branding widget, which you may add/move/remove inside Layout control section.</span>"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:155
+msgid "Remove footer credits alltogether"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:163
+msgid "Custom Image"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:164
+#: ../lib_frame/frame_options.php:256
+msgid "Upload your image or paste the full URL address to it next to upload button. Choose small image (recommended dimension within 115x30px limits). <span class=\"important\">Your upload will start after you save changes</span>"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:172
+msgid "Custom Link"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:173
+msgid "Add custom link - where your logo points to. Including <code>http://</code>."
+msgstr ""
+
+#: ../lib_frame/frame_options.php:183
+#: ../lib_frame/frame_options.php:207
+#: ../lib_frame/frame_options.php:242
+#: ../lib_frame/frame_options.php:266
+#: ../lib_frame/frame_options.php:333
+#: ../lib_frame/frame_options.php:368
+#, php-format
+msgid "To use these options, <a href=\"%s/wp-admin/admin.php?page=bizz-license\">Upgrade to Agency Theme Package or Become a Club member</a>."
+msgstr ""
+
+#: ../lib_frame/frame_options.php:190
+#: ../lib_frame/frame_options.php:196
+msgid "Theme Name"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:197
+msgid "Rename this theme to whatever name you like."
+msgstr ""
+
+#: ../lib_frame/frame_options.php:214
+msgid "Admin Bar"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:220
+msgid "Remove Theme Options"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:221
+msgid "Remove theme options from admin bar."
+msgstr ""
+
+#: ../lib_frame/frame_options.php:222
+msgid "Remove theme options from admin bar"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:230
+msgid "Remove Admin Bar"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:231
+msgid "Remove admin bar altogether for both, logged in and logged out users."
+msgstr ""
+
+#: ../lib_frame/frame_options.php:232
+msgid "Remove admin bar alltogether"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:249
+msgid "Login Screen"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:255
+msgid "Login Logo"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:273
+msgid "Hide Menu Labels"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:279
+msgid "Back-end Menu Labels"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:280
+msgid "If you are developing sites for your clients, it is important to lock your work after you are done. Hide your layout engine, custom designs, update notifications, API key and disable custom editor."
+msgstr ""
+
+#: ../lib_frame/frame_options.php:283
+msgid "Hide template builder"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:291
+msgid "Hide design options"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:299
+msgid "Hide license control"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:307
+msgid "Hide custom editor"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:315
+msgid "Hide custom tools"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:323
+msgid "Hide updates control"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:340
+msgid "Hide Notifications"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:346
+msgid "Hide notifications"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:347
+msgid "If you are developing sites for your clients, it is important to hide update notifications and stop them from nagging your clients."
+msgstr ""
+
+#: ../lib_frame/frame_options.php:350
+msgid "Hide WordPress update notifications"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:358
+msgid "Hide all theme notifications"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:383
+msgid "Complete SEO Control"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:386
+msgid "General Options"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:392
+msgid "Deactivate theme SEO?"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:393
+msgid "Disable default Bizz SEO"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:394
+msgid "In case you want to use another SEO plugin, you can disable the whole theme SEO controls."
+msgstr ""
+
+#: ../lib_frame/frame_options.php:404
+#: ../lib_frame/frame_options.php:439
+#: ../lib_frame/frame_options.php:463
+#: ../lib_frame/frame_options.php:536
+#: ../lib_frame/frame_options.php:571
+#: ../lib_frame/frame_options.php:614
+#: ../lib_frame/frame_options.php:641
+#: ../lib_theme/theme_options.php:268
+#: ../lib_theme/theme_options.php:332
+#: ../lib_theme/theme_options.php:387
+#: ../lib_theme/theme_options.php:451
+#: ../lib_theme/theme_options.php:555
+#: ../lib_theme/theme_options.php:617
+#, php-format
+msgid "To use these options, please <a href=\"%s/wp-admin/admin.php?page=bizz-license\">Upgrade to Standard or Agency Theme Package</a>."
+msgstr ""
+
+#: ../lib_frame/frame_options.php:411
+msgid "Head <code>&lt;title&gt;</code> tags"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:417
+msgid "Site name in Title on inner pages?"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:418
+msgid "Show site name in title (on your homepage). Example: Sitename"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:419
+#, php-format
+msgid "You may edit Site name (Blog Title) <a href=\"%s/wp-admin/options-general.php\">here</a>."
+msgstr ""
+
+#: ../lib_frame/frame_options.php:427
+msgid "Tagline in Title on homepage?"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:428
+msgid "Show site tagline in title (on your homepage). Example: Tagline|Sitename"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:429
+#, php-format
+msgid "You may edit Tagline <a href=\"%s/wp-admin/options-general.php\">here</a>."
+msgstr ""
+
+#: ../lib_frame/frame_options.php:446
+msgid "Head <code>&lt;meta&gt;</code> tags"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:452
+msgid "Meta Description"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:453
+msgid "You should use meta descriptions to provide search engines with additional information about topics that appear on your site. This only applies to your home page."
+msgstr ""
+
+#: ../lib_frame/frame_options.php:470
+msgid "Head <code>&lt;noindex&gt;</code> tags"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:476
+msgid "Options for <code>noindex</code> tag"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:477
+msgid "By adding <code>noindex</code> robot meta tag you are significantly improving your site SEO and prevent search engines from indexing very large database or pages that are very transitory. This way your are preventing spiders from indexing pages that only worsen your search results and keep you from ranking as well as you should."
+msgstr ""
+
+#: ../lib_frame/frame_options.php:480
+msgid "Add <code>&lt;noindex&gt;</code> to category archives."
+msgstr ""
+
+#: ../lib_frame/frame_options.php:488
+msgid "Add <code>&lt;noindex&gt;</code> to tag archives."
+msgstr ""
+
+#: ../lib_frame/frame_options.php:496
+msgid "Add <code>&lt;noindex&gt;</code> to author archives."
+msgstr ""
+
+#: ../lib_frame/frame_options.php:504
+msgid "Add <code>&lt;noindex&gt;</code> to daily archives."
+msgstr ""
+
+#: ../lib_frame/frame_options.php:512
+msgid "Add <code>&lt;noindex&gt;</code> to monthly archives."
+msgstr ""
+
+#: ../lib_frame/frame_options.php:520
+msgid "Add <code>&lt;noindex&gt;</code> to yearly archives."
+msgstr ""
+
+#: ../lib_frame/frame_options.php:528
+msgid "Add <code>&lt;noindex&gt;</code> to checked pages."
+msgstr ""
+
+#: ../lib_frame/frame_options.php:529
+msgid "Check all pages you would like to hide from search engine spiders."
+msgstr ""
+
+#: ../lib_frame/frame_options.php:543
+msgid "Head <code>&lt;noodp&gt;</code> <code>&lt;noydir&gt;</code> attributes"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:549
+msgid "Options for <code>noodp</code> <code>noydir</code> tag"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:550
+msgid "By adding <code>noodp</code> <code>noydir</code> robot meta tags you are preventing search engines from displaying Open Directory Project (DMOZ) and Yahoo! Directory listings in your meta descriptions."
+msgstr ""
+
+#: ../lib_frame/frame_options.php:553
+msgid "Add <code>noodp</code> meta tag</code>"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:561
+msgid "Add <code>noydir</code> meta tag</code>"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:578
+msgid "Link <code>&lt;nofollow&gt;</code> attributes"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:584
+msgid "Options for <code>nofollow</code> tag"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:585
+msgid "By adding <code>nofolow</code> rel attribute to specific links you are reducing the effectiveness of certain types of search engine spam, thereby improving the quality of search engine results and preventing spamdexing from occurring."
+msgstr ""
+
+#: ../lib_frame/frame_options.php:588
+msgid "<code>nofollow</code> Home link</code>"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:596
+msgid "<code>nofollow</code> Author Links</code>"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:604
+msgid "<code>nofollow</code> Post Tags</code>"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:621
+msgid "Canonical URLs"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:627
+msgid "Options for canonical URLs"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:628
+msgid "Canonical URL: the search engine friendly URL that you want the search engines to treat as authoritative.  In other words, a canonical URL is the URL that you want visitors to see."
+msgstr ""
+
+#: ../lib_frame/frame_options.php:631
+msgid "Enable Canonical URLs"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:664
+msgid "Bizz &rarr; SEO"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:671
+msgid "SEO Title"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:672
+msgid "Most search engines use a maximum of 60 chars."
+msgstr ""
+
+#: ../lib_frame/frame_options.php:677
+msgid "SEO Meta Description"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:678
+msgid "Most search engines use a maximum of 160 chars."
+msgstr ""
+
+#: ../lib_frame/frame_options.php:683
+msgid "Noindex this Post/Page"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:684
+msgid "Prevent search engines from indexing this post/page."
+msgstr ""
+
+#: ../lib_frame/frame_options.php:689
+msgid "301 Redirect"
+msgstr ""
+
+#: ../lib_frame/frame_options.php:690
+msgid "Users will get redirected to the <acronym title=\"Uniform Resource Locator\">URL</acronym> above, whenever they visit this post/page."
+msgstr ""
+
+#: ../lib_frame/frame_options_api.php:138
+#, php-format
+msgid "License<span id=\"awaiting-mod\" class=\"update-plugins\"><span class=\"pending-count update-count\">%s</span></span>"
+msgstr ""
+
+#: ../lib_frame/frame_options_api.php:144
+#, php-format
+msgid "Update<span id=\"awaiting-mod\" class=\"update-plugins\"><span class=\"pending-count update-count\">%s</span></span>"
+msgstr ""
+
+#: ../lib_frame/frame_options_api.php:162
+msgid "Framework Settings"
+msgstr ""
+
+#: ../lib_frame/frame_options_api.php:166
+msgid "Design Options"
+msgstr ""
+
+#: ../lib_frame/frame_options_api.php:203
+#: ../lib_frame/frame_options_api.php:228
+msgid "-- None --"
+msgstr ""
+
+#: ../lib_frame/frame_options_api.php:230
+msgid "-- All --"
+msgstr ""
+
+#: ../lib_frame/frame_options_api.php:291
+#: ../lib_frame/frame_options_api.php:648
+msgid "Choose File"
+msgstr ""
+
+#: ../lib_frame/frame_options_api.php:755
+#: ../lib_frame/frame_options_api.php:957
+msgid "Save changes"
+msgstr ""
+
+#: ../lib_frame/frame_options_api.php:863
+msgid "&#43;"
+msgstr ""
+
+#: ../lib_frame/frame_options_api.php:912
+msgid "Give your Feedback"
+msgstr ""
+
+#: ../lib_frame/frame_options_api.php:912
+msgid "Report a Bug"
+msgstr ""
+
+#: ../lib_frame/frame_options_api.php:921
+msgid "<p>Rename your <code>custom-sample</code> folder to <code>custom</code>, otherwise theme will not work properly.</p>"
+msgstr ""
+
+#: ../lib_frame/frame_options_api.php:923
+msgid "<p>Warning: Your <code>custom</code> folder is not writeable. Please <a href=\"http://codex.wordpress.org/Changing_File_Permissions\">CHMOD</a> all custom folder files to 777 restrictions, otherwise theme will not work properly.</p>"
+msgstr ""
+
+#: ../lib_frame/frame_options_api.php:925
+#, php-format
+msgid "<p>Settings reset!&nbsp; <a href=\"%1$s\">Check out your website &rarr;</a></p>"
+msgstr ""
+
+#: ../lib_frame/frame_options_api.php:929
+msgid "Show/Hide All Options"
+msgstr ""
+
+#: ../lib_frame/frame_options_api.php:934
+msgid "Changes Saved"
+msgstr ""
+
+#: ../lib_frame/frame_options_api.php:962
+#: ../lib_theme/booking/step1.php:63
+msgid "Reset"
+msgstr ""
+
+#: ../lib_frame/frame_options_api.php:962
+msgid "All theme settings will be lost! Click OK to reset."
+msgstr ""
+
+#: ../lib_frame/frame_options_api.php:991
+msgid "Documentation"
+msgstr ""
+
+#: ../lib_frame/frame_options_api.php:992
+msgid "Support Forums"
+msgstr ""
+
+#: ../lib_frame/frame_options_api.php:997
+msgid "Read Theme Documentation & Installation Guide"
+msgstr ""
+
+#: ../lib_frame/frame_options_api.php:997
+msgid "Theme Documentation"
+msgstr ""
+
+#: ../lib_frame/frame_options_api.php:998
+msgid "Visit Support Forums"
+msgstr ""
+
+#: ../lib_frame/frame_options_api.php:998
+msgid "Theme Support Forums"
+msgstr ""
+
+#: ../lib_frame/frame_options_api.php:1024
+#: ../lib_frame/frame_options_api.php:1042
+msgid "help [&#43;]"
+msgstr ""
+
+#: ../lib_frame/frame_scripts.php:78
+msgid "A License Key?"
+msgstr ""
+
+#: ../lib_frame/frame_scripts.php:79
+msgid "Even though, themes are GPL licensed, we keep rights for issuing three versions of this theme: free, standard and agency. Whereas, free version does not require a license to function, standard and agency need license key, which you get after your theme purchase inside your BizzThemes account."
+msgstr ""
+
+#: ../lib_frame/frame_scripts.php:83
+msgid "Your theme has no widgets!"
+msgstr ""
+
+#: ../lib_frame/frame_scripts.php:84
+msgid "It appears that your theme has no widgets at the moment. This happens if you install a new theme or clear your layouts, but no worries, you can set default widgets for this theme with one click on the button below."
+msgstr ""
+
+#: ../lib_frame/frame_scripts.php:85
+#, php-format
+msgid "<a href=\"%1$s\" class=\"button\" onclick=\"alert_confirm();\">Set default widgets</a>"
+msgstr ""
+
+#: ../lib_frame/frame_scripts.php:108
+msgid "Manage your templates"
+msgstr ""
+
+#: ../lib_frame/frame_scripts.php:109
+msgid "Select a template before adding widgets to your website. After selection, simply drag widgets from Available section to the dotted grids on the right hand side."
+msgstr ""
+
+#: ../lib_frame/frame_scripts.php:110
+msgid "Edit home page widgets"
+msgstr ""
+
+#: ../lib_frame/frame_scripts.php:111
+msgid "Select Home template and add some widgets or edit existing ones. Voil&aacute;."
+msgstr ""
+
+#: ../lib_frame/frame_scripts.php:112
+msgid "Widgets visible on all pages"
+msgstr ""
+
+#: ../lib_frame/frame_scripts.php:113
+msgid "To have widgets across all web pages, select Site-wide template and add them there."
+msgstr ""
+
+#: ../lib_frame/frame_scripts.php:114
+msgid "Single or Archive?"
+msgstr ""
+
+#: ../lib_frame/frame_scripts.php:115
+#, php-format
+msgid "Single templates are used to render a single post on one page, like an About page. Archive templates render index of single posts on one page. More about template hierarchy <a href=%1$s\">here</a>."
+msgstr ""
+
+#: ../lib_frame/frame_scripts.php:116
+msgid "Change layout structure"
+msgstr ""
+
+#: ../lib_frame/frame_scripts.php:117
+#, php-format
+msgid "To add, remove or edit layout areas, like Header Area or Footer Area, <a href=%1$s\">read this tutorial</a>. You can also rearrange existing layout areas and disable them on selected templates."
+msgstr ""
+
+#: ../lib_frame/frame_settings_api.php:66
+msgid "Override init_sections() in your class."
+msgstr ""
+
+#: ../lib_frame/frame_settings_api.php:77
+msgid "Override init_fields() in your class."
+msgstr ""
+
+#: ../lib_frame/frame_settings_api.php:96
+msgid "All"
+msgstr ""
+
+#: ../lib_frame/frame_settings_api.php:647
+#, php-format
+msgid "%s is a required field"
+msgstr ""
+
+#: ../lib_frame/frame_settings_api.php:658
+#, php-format
+msgid "%s updated"
+msgstr ""
+
+#: ../lib_frame/frame_shortcodes.php:478
+#: ../lib_frame/widgets/widget-query-posts.php:344
+#: ../lib_theme/theme_templates.php:122
+msgid "Apologies, but no results were found."
+msgstr ""
+
+#: ../lib_frame/frame_shortcodes.php:497
+msgid "Continue reading"
+msgstr ""
+
+#: ../lib_frame/frame_shortcodes.php:540
+msgid "Pages:"
+msgstr ""
+
+#: ../lib_frame/frame_shortcodes.php:542
+msgid "Categories:"
+msgstr ""
+
+#: ../lib_frame/frame_taxonomies_api.php:271
+msgid "Upload File"
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:166
+msgid "Updates Control Panel"
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:167
+#, php-format
+msgid "To use automatic framework updating system, please <a href=\"%s/wp-admin/admin.php?page=bizz-license\">Upgrade to Standard or Agency Theme Package</a>."
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:181
+msgid "Theme Update Control"
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:213
+msgid "Theme update is available."
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:214
+msgid "To update your theme go through following steps:"
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:216
+msgid "Backup your old theme files and database (preferably via FTP)."
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:217
+msgid "Make sure your definitely backup &#8217;custom&#8217; folder in root theme directory."
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:218
+msgid "Update all theme files by clicking the button bellow."
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:219
+#: ../lib_frame/frame_updates.php:271
+msgid "That&#8217;s it!"
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:221
+msgid "Update Theme"
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:221
+#: ../lib_frame/frame_updates.php:256
+msgid "Old theme files will be lost! Click OK to proceed."
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:231
+msgid "You are using the latest theme version."
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:234
+msgid "Framework Update Control"
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:256
+msgid "Re-install Frame"
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:260
+msgid "Download"
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:266
+msgid "Framework update is available."
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:267
+msgid "To update your theme framework go through following steps:"
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:269
+msgid "Backup your old theme files and database."
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:270
+msgid "Update all files in lib_frame folder with new ones by clicking the button bellow."
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:281
+msgid "You are using the latest framework version."
+msgstr ""
+
+#: ../lib_frame/classes/frame_editor.php:32
+#: ../lib_frame/classes/frame_editor.php:34
+#: ../lib_frame/classes/frame_editor.php:36
+#: ../lib_frame/classes/frame_editor.php:38
+msgid "Attention!"
+msgstr ""
+
+#: ../lib_frame/classes/frame_editor.php:32
+msgid "For security reasons, the file you are attempting to edit cannot be modified via this screen."
+msgstr ""
+
+#: ../lib_frame/classes/frame_editor.php:34
+msgid "Your <code>custom/</code> directory does not appear to exist. Have you remembered to rename <code>/custom-sample</code>?"
+msgstr ""
+
+#: ../lib_frame/classes/frame_editor.php:36
+msgid "The file you are attempting does not appear to exist."
+msgstr ""
+
+#: ../lib_frame/classes/frame_editor.php:38
+#, php-format
+msgid "Your <code>/custom/%s</code> file is not writable by the server, and in order to modify the file via the admin panel, BizzThemes needs to be able to write to this file. All you have to do is set this file&#8217;s permissions to 666, and you&#8217;ll be good to go."
+msgstr ""
+
+#: ../lib_frame/classes/frame_editor.php:82
+msgid "Easy there, homey. You don&#8217;t have admin privileges to access theme options."
+msgstr ""
+
+#: ../lib_frame/classes/frame_editor.php:90
+msgid "You have attempted to modify an ineligible file. Only files within the BizzThemes <code>/custom</code> folder may be modified via this interface. Thank you."
+msgstr ""
+
+#: ../lib_frame/classes/frame_editor.php:128
+#, php-format
+msgid "Currently editing: <code>%s</code>"
+msgstr ""
+
+#: ../lib_frame/classes/frame_editor.php:132
+msgid "<strong>Note:</strong> Make sure you have <acronym title=\"File Transfer Protocol\">FTP</acronym> server access, before you start modifying <acronym title=\"PHP: Hypertext Preprocessor\">PHP</acronym> files. Bad code will make your site temporarily unusable."
+msgstr ""
+
+#: ../lib_frame/classes/frame_editor.php:135
+msgid "File successfully updated."
+msgstr ""
+
+#: ../lib_frame/classes/frame_editor.php:153
+msgid "Save"
+msgstr ""
+
+#: ../lib_frame/classes/frame_tools.php:219
+#, php-format
+msgid "<strong>Oh noez!</strong> There was an error with the file upload. Please try it again, or else download a new, valid %s Options file."
+msgstr ""
+
+#: ../lib_frame/classes/frame_tools.php:225
+#, php-format
+msgid "<strong>Whoa there!</strong> The %1$s you attempted to upload are from framework version <strong>%2$s</strong> and are not compatible with version <strong>%3$s.</strong>"
+msgstr ""
+
+#: ../lib_frame/classes/frame_tools.php:231
+#, php-format
+msgid "<strong>Whoa there!</strong> The %1$s you attempted to upload are from theme <strong>%2$s</strong> and are not compatible with theme <strong>%3$s.</strong>"
+msgstr ""
+
+#: ../lib_frame/classes/frame_tools.php:236
+#, php-format
+msgid "<strong>Whoops!</strong> The file you attempted to upload is not a valid %1$s file. Please try uploading the file again, or else download a new, valid %1$s Options file."
+msgstr ""
+
+#: ../lib_frame/classes/frame_tools.php:242
+#, php-format
+msgid "%1$s cleared! <a href=\"%2$s\">Check out your site &rarr;</a>"
+msgstr ""
+
+#: ../lib_frame/classes/frame_tools.php:248
+#, php-format
+msgid "%1$s restored! <a href=\"%2$s\">Check out your site &rarr;</a>"
+msgstr ""
+
+#: ../lib_frame/classes/frame_tools.php:253
+#, php-format
+msgid "%1$s imported! <a href=\"%2$s\">Check out your site &rarr;</a>"
+msgstr ""
+
+#: ../lib_frame/classes/frame_tools.php:265
+msgid "Import &amp; Export Tools"
+msgstr ""
+
+#: ../lib_frame/classes/frame_tools.php:270
+msgid "Howdy! Welcome to BizzThemes theme options exporter/importer tool."
+msgstr ""
+
+#: ../lib_frame/classes/frame_tools.php:271
+msgid "Once you have saved the .dat export file, you can use the Import options tool in another WordPress installation to import theme options."
+msgstr ""
+
+#: ../lib_frame/classes/frame_tools.php:272
+#, php-format
+msgid "Notice: this tool does not export your site posts, pages, comments, custom fields, categories, and tags, use <a href=\"%s\">WP Export</a> for that purpose."
+msgstr ""
+
+#: ../lib_frame/classes/frame_tools.php:274
+msgid "Import options"
+msgstr ""
+
+#: ../lib_frame/classes/frame_tools.php:276
+msgid "Choose a file from your computer"
+msgstr ""
+
+#: ../lib_frame/classes/frame_tools.php:281
+msgid "Whoa there! Sure you want to override current options?"
+msgstr ""
+
+#: ../lib_frame/classes/frame_tools.php:286
+msgid "Export options"
+msgstr ""
+
+#: ../lib_frame/classes/frame_tools.php:289
+msgid "Download layouts"
+msgstr ""
+
+#: ../lib_frame/classes/frame_tools.php:293
+msgid "Download settings"
+msgstr ""
+
+#: ../lib_frame/classes/frame_tools.php:297
+msgid "Download design"
+msgstr ""
+
+#: ../lib_frame/classes/frame_tools.php:301
+msgid "Set default options"
+msgstr ""
+
+#: ../lib_frame/classes/frame_tools.php:305
+#: ../lib_frame/classes/frame_tools.php:306
+msgid "All current theme layouts will be lost! Click OK to reset."
+msgstr ""
+
+#: ../lib_frame/classes/frame_tools.php:305
+msgid "Set default layouts"
+msgstr ""
+
+#: ../lib_frame/classes/frame_tools.php:306
+msgid "Clear"
+msgstr ""
+
+#: ../lib_frame/classes/frame_tools.php:311
+msgid "All current theme settings will be lost! Click OK to reset."
+msgstr ""
+
+#: ../lib_frame/classes/frame_tools.php:311
+msgid "Set default settings"
+msgstr ""
+
+#: ../lib_frame/classes/frame_tools.php:315
+msgid "All current theme design options will be lost! Click OK to reset."
+msgstr ""
+
+#: ../lib_frame/classes/frame_tools.php:315
+msgid "Set default design"
+msgstr ""
+
+#: ../lib_frame/classes/loop.php:152
+msgid "Sorry, but no results were found."
+msgstr ""
+
+#: ../lib_frame/classes/twitter_api.php:68
+msgid "Can't get the bearer token, check your credentials"
+msgstr ""
+
+#: ../lib_frame/classes/twitter_api.php:124
+msgid "Bearer Token is good, check your query"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:12
+msgid "Display Comments"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:14
+msgid "Comments"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:214
+#: ../lib_frame/widgets/widget-comments.php:552
+msgid "Reply"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:215
+msgid "Log in to Reply"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:217
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:218
+msgid "Password Protected"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:219
+msgid "is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:220
+msgid "comment"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:221
+msgid "comments"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:222
+msgid "trackback"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:223
+msgid "trackbacks"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:224
+msgid "pingback"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:225
+msgid "pingbacks"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:226
+msgid "ping"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:227
+msgid "pings"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:228
+#: ../lib_theme/booking/post-type-settings.php:218
+#: ../lib_theme/booking/post-type-settings.php:229
+#: ../lib_theme/booking/post-type-settings.php:240
+#: ../lib_theme/booking/post-type-settings.php:251
+#: ../lib_theme/booking/post-type-settings.php:262
+#: ../lib_theme/booking/post-type-settings.php:273
+#: ../lib_theme/booking/post-type-settings.php:284
+#: ../lib_theme/booking/post-type-settings.php:295
+#: ../lib_theme/booking/post-type-settings.php:306
+#: ../lib_theme/booking/post-type-settings.php:317
+#: ../lib_theme/booking/post-type-settings.php:328
+#: ../lib_theme/booking/post-type-settings.php:339
+msgid "No"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:229
+msgid "to"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:231
+#: ../lib_frame/widgets/widget-comments.php:615
+msgid "(required)"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:232
+#: ../lib_frame/widgets/widget-comments.php:616
+#: ../lib_theme/booking/step4.php:285
+#: ../lib_theme/widgets/widget-slider.php:303
+msgid "Name"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:233
+#: ../lib_frame/widgets/widget-comments.php:617
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:234
+#: ../lib_frame/widgets/widget-comments.php:618
+msgid "Website"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:235
+#: ../lib_frame/widgets/widget-comments.php:619
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:236
+#: ../lib_frame/widgets/widget-comments.php:620
+#, php-format
+msgid "Logged in as <a href=\"%s\">%s</a>. <a href=\"%s\" title=\"Log out of this account\">Log out &raquo;</a>"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:237
+#: ../lib_frame/widgets/widget-comments.php:622
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:238
+#: ../lib_frame/widgets/widget-comments.php:623
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:239
+#: ../lib_frame/widgets/widget-comments.php:624
+msgid "Click here to cancel reply."
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:240
+#: ../lib_frame/widgets/widget-comments.php:625
+msgid "Submit Comment"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:249
+msgid "Comment type"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:257
+msgid "Comments headline tag"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:265
+msgid "Reply headline tag"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:273
+msgid "Comment meta"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:277
+msgid "Max depth"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:282
+msgid "Require name and email"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:286
+#: ../lib_frame/widgets/widget-loop.php:175
+#: ../lib_frame/widgets/widget-query-posts.php:429
+msgid "Enable pagination"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:290
+msgid "Enable comment reply"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:294
+msgid "Reverse the comment order"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:297
+#: ../lib_frame/widgets/widget-contact-form.php:122
+msgid "Translations"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:300
+msgid "comment list"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:320
+msgid "comment form"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:416
+msgid "% Comments"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:501
+msgid "g:i a"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:536
+msgid "Permalink"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:540
+#, php-format
+msgid "Permalink to %1$s %2$s"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:553
+msgid "Log in to reply."
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:573
+#: ../lib_frame/widgets/widget-query-posts.php:678
+#: ../lib_theme/theme_functions.php:110
+#: ../lib_theme/booking/post-type-bookings.php:57
+#: ../lib_theme/booking/post-type-cars.php:46
+#: ../lib_theme/booking/post-type-locations.php:45
+#: ../lib_theme/booking/post-type-pricing.php:45
+#: ../lib_theme/cpt/post-type-slides.php:56
+msgid "Edit"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-comments.php:689
+msgid "Add Comment"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-contact-form.php:16
+msgid "Simple Contact Form widget for your site."
+msgstr ""
+
+#: ../lib_frame/widgets/widget-contact-form.php:17
+msgid "Contact Form"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-contact-form.php:82
+msgid "Contact Me"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-contact-form.php:105
+#: ../lib_frame/widgets/widget-nav-menu.php:136
+#: ../lib_frame/widgets/widget-search.php:87
+#: ../lib_theme/booking/widget-booking.php:34
+#: ../lib_theme/widgets/widget-contact-info.php:99
+#: ../lib_theme/widgets/widget-nav-menu.php:83
+#: ../lib_theme/widgets/widget-social.php:98
+msgid "Title:"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-contact-form.php:109
+msgid "Your Email"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-contact-form.php:113
+msgid "Form Labels"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-contact-form.php:125
+msgid "Email Template Translations"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-contact-form.php:129
+msgid "Error Translations"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-contact-form.php:135
+msgid "Live Error Translations"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-logo.php:22
+msgid "Control the output of your logotype."
+msgstr ""
+
+#: ../lib_frame/widgets/widget-logo.php:23
+msgid "Logo"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-logo.php:97
+msgid "Default logo"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-logo.php:98
+msgid "Default blog title &amp; tagline"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-logo.php:99
+msgid "Custom logo"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-logo.php:111
+msgid "Configure defult logo inside framework options panel"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-logo.php:113
+msgid "Configure Title &amp; Tagline inside Settings/General"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-logo.php:115
+msgid "Upload custom logo for this widget only - setup below"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-logo.php:123
+msgid "Choose a custom link:"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-loop.php:13
+msgid "Default content widget displays your posts content for current page or archive."
+msgstr ""
+
+#: ../lib_frame/widgets/widget-loop.php:15
+msgid "Default Content"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-loop.php:131
+msgid "Meta Settings"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-loop.php:134
+#: ../lib_frame/widgets/widget-query-posts.php:519
+msgid "Post Author"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-loop.php:136
+#: ../lib_frame/widgets/widget-query-posts.php:521
+msgid "Post Date"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-loop.php:138
+#: ../lib_frame/widgets/widget-query-posts.php:523
+msgid "Post Comments"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-loop.php:140
+msgid "Post Categories (posts only)"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-loop.php:142
+msgid "Post Tags (posts only)"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-loop.php:144
+msgid "Edit Post (visible to administrators)"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-loop.php:148
+msgid "Display post meta on pages"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-loop.php:150
+msgid "Archives Specific Options"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-loop.php:152
+msgid "How many Columns?"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-loop.php:161
+msgid "Remove Post Content from Archives"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-loop.php:163
+msgid "Display Full Posts"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-loop.php:165
+msgid "Display <em>Read More...</em> text"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-loop.php:172
+msgid "Pagination"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-loop.php:177
+msgid "Featured Image"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-loop.php:180
+msgid "Display featured images?"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-loop.php:182
+msgid "Display featured images on Single Posts"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-loop.php:184
+msgid "Link featured images to themselves?"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-loop.php:187
+msgid "Image Width"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-loop.php:191
+msgid "Image Height"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-loop.php:195
+msgid "Image Alignment"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-loop.php:203
+msgid "Image Crop Position"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-nav-menu.php:24
+#: ../lib_theme/widgets/widget-nav-menu.php:8
+msgid "Control the output of your menus."
+msgstr ""
+
+#: ../lib_frame/widgets/widget-nav-menu.php:26
+#: ../lib_theme/widgets/widget-nav-menu.php:10
+msgid "Navigation Menu"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-nav-menu.php:140
+msgid "Select a menu"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-nav-menu.php:140
+msgid "edit menus"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-nav-menu.php:148
+msgid "Container"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-nav-menu.php:156
+msgid "Container ID"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-nav-menu.php:160
+msgid "Container class"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-nav-menu.php:164
+msgid "Menu ID"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-nav-menu.php:168
+msgid "Menu class"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-nav-menu.php:175
+msgid "Menu depth"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-nav-menu.php:179
+msgid "Before menu"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-nav-menu.php:183
+msgid "After menu"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-nav-menu.php:187
+msgid "Before link"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-nav-menu.php:191
+msgid "After lin"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-nav-menu.php:195
+msgid "Fallback CB"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-nav-menu.php:199
+msgid "Walker"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-nav-menu.php:204
+msgid "Display descriptions?"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-nav-menu.php:208
+msgid "Display vertically?"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-query-posts.php:20
+msgid "Display all post types however you want. Create Blogs, News, FAQs etc."
+msgstr ""
+
+#: ../lib_frame/widgets/widget-query-posts.php:22
+msgid "Query Posts"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-query-posts.php:385
+msgid "Inherit"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-query-posts.php:389
+#: ../lib_theme/booking/step2.php:6
+#: ../lib_theme/booking/templates-booking.php:50
+msgid "Any"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-query-posts.php:420
+#: ../lib_theme/widgets/widget-slider.php:293
+msgid "Ascending"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-query-posts.php:420
+#: ../lib_theme/widgets/widget-slider.php:293
+msgid "Descending"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-query-posts.php:423
+#: ../lib_theme/widgets/widget-slider.php:295
+msgid "Author"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-query-posts.php:423
+msgid "Comment Count"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-query-posts.php:423
+#: ../lib_theme/booking/shortcodes-booking.php:24
+#: ../lib_theme/cpt/post-type-slides.php:90
+#: ../lib_theme/widgets/widget-slider.php:298
+msgid "Date"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-query-posts.php:423
+#: ../lib_theme/widgets/widget-slider.php:299
+msgid "ID"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-query-posts.php:423
+msgid "Menu Order"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-query-posts.php:423
+msgid "Meta Value"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-query-posts.php:423
+msgid "Modified"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-query-posts.php:423
+msgid "None"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-query-posts.php:423
+msgid "Parent"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-query-posts.php:423
+msgid "Random"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-query-posts.php:423
+#: ../lib_theme/booking/post-type-bookings.php:92
+#: ../lib_theme/widgets/widget-slider.php:307
+msgid "Title"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-query-posts.php:467
+msgid "Disable sticky posts"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-query-posts.php:490
+msgid "Enable entry titles"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-query-posts.php:493
+msgid "Enable title links"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-query-posts.php:502
+msgid "Remove post content"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-query-posts.php:505
+msgid "Display full content"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-query-posts.php:508
+msgid "Read More... text"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-query-posts.php:525
+msgid "Post Categories"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-query-posts.php:527
+msgid "Post Tags"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-query-posts.php:529
+msgid "Edit Post"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-query-posts.php:534
+msgid "Fetured images?"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-query-posts.php:536
+msgid "Link to images?"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-query-posts.php:678
+#, php-format
+msgid "Edit %1$s"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-query-posts.php:690
+msgid "l, F jS, Y, g:i a"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-query-posts.php:703
+msgid "Leave a response"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-query-posts.php:703
+msgid "1 Response"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-query-posts.php:703
+#, php-format
+msgid "%1$s Responses"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-query-posts.php:710
+#: ../lib_frame/widgets/widget-query-posts.php:712
+#: ../lib_frame/widgets/widget-query-posts.php:714
+#, php-format
+msgid "Comment on %1$s"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-search.php:25
+msgid "Control the output of your search form."
+msgstr ""
+
+#: ../lib_frame/widgets/widget-search.php:91
+msgid "Search Text:"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-twitter.php:15
+msgid "Twitter widget displays your twitter photos."
+msgstr ""
+
+#: ../lib_frame/widgets/widget-twitter.php:16
+msgid "Twitter Timeline"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-twitter.php:159
+#, php-format
+msgid "You need to <a href=\"%1$s\" target=\"_blank\">create a widget at Twitter.com</a>, and then enter your widget id (the long number found in the URL of your widget's config page) in the field below. <a href=\"%2$s\" target=\"_blank\">Read more</a>."
+msgstr ""
+
+#: ../lib_frame/widgets/widget-twitter.php:181
+msgid "Link Color (hex):"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-twitter.php:186
+msgid "Border Color (hex):"
+msgstr ""
+
+#: ../lib_frame/widgets/widget-twitter.php:191
+msgid "Timeline Theme:"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:14
+msgid "General Styling"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:17
+msgid "Layout Control"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:21
+msgid "Predefined Skins"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:22
+msgid "Please select the CSS skin for your website here. CSS skin files are located in your theme skins folder."
+msgstr ""
+
+#: ../lib_theme/theme_options.php:32
+msgid "Hide custom.css"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:33
+msgid "Hide Custom Stylesheet"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:34
+#, php-format
+msgid "Custom.css file allows you to make custom design changes using CSS. You have option to create your own css skin in skins folder or to simply enable and <a href=\"%s/wp-admin/theme-editor.php\">edit custom.css file</a>.<span class=\"important\">Check this option to disable custom.css file output.</span>"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:42
+msgid "Hide layout.css"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:43
+msgid "Hide Design Control Tweaks"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:44
+msgid "If you want to hide all CSS design tweaks you&#8217;ve created using theme design control panel, check this option."
+msgstr ""
+
+#: ../lib_theme/theme_options.php:54
+msgid "Body Background"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:58
+msgid "<code>body</code> background"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:59
+msgid "Specify <code>body</code> background properties. <span class=\"important\">Uploading image is optional, so you may only choose background color if you like.</span>"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:72
+msgid "Body Links"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:76
+msgid "<code>a</code> link text color"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:77
+msgid "Pick a custom link color to be applied to <code>body</code> text links."
+msgstr ""
+
+#: ../lib_theme/theme_options.php:85
+msgid "<code>a:hover</code> link text color"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:86
+msgid "Pick a custom onhover link color to be applied to <code>body</code> text links."
+msgstr ""
+
+#: ../lib_theme/theme_options.php:96
+msgid "Body Text"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:100
+msgid "<code>body</code> fonts (all)"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:101
+msgid "Select the typography you want for all of your texts. <span class=\"important\">* Web-safe font.<br/>G Google font.</span>"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:114
+msgid "<code>H1</code> fonts"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:115
+msgid "Select the typography you want for your text, displayed inside <code>H1</code> tags. <span class=\"important\">* Web-safe font.<br/>G Google font.</span>"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:128
+msgid "<code>H2</code> fonts"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:129
+msgid "Select the typography you want for your text, displayed inside <code>H2</code> tags. <span class=\"important\">* Web-safe font.<br/>G Google font.</span>"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:142
+msgid "<code>H3</code> fonts"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:143
+msgid "Select the typography you want for your text, displayed inside <code>H3</code> tags. <span class=\"important\">* Web-safe font.<br/>G Google font.</span>"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:156
+msgid "<code>H4</code> fonts"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:157
+msgid "Select the typography you want for your text, displayed inside <code>H4</code> tags. <span class=\"important\">* Web-safe font.<br/>G Google font.</span>"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:170
+msgid "<code>H5</code> fonts"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:171
+msgid "Select the typography you want for your text, displayed inside <code>H5</code> tags. <span class=\"important\">* Web-safe font.<br/>G Google font.</span>"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:184
+msgid "<code>H6</code> fonts"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:185
+msgid "Select the typography you want for your text, displayed inside <code>H6</code> tags. <span class=\"important\">* Web-safe font.<br/>G Google font.</span>"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:208
+msgid "Area Styling"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:211
+#: ../lib_theme/theme_widgets.php:27
+msgid "Header Area"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:217
+#: ../lib_theme/theme_options.php:281
+#: ../lib_theme/theme_options.php:345
+msgid "Area background"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:218
+#: ../lib_theme/theme_options.php:282
+#: ../lib_theme/theme_options.php:346
+#: ../lib_theme/theme_options.php:401
+#: ../lib_theme/theme_options.php:472
+msgid "Specify background properties. <span class=\"important\">Uploading image is optional, so you may only choose background color if you like.</span>"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:229
+#: ../lib_theme/theme_options.php:293
+#: ../lib_theme/theme_options.php:357
+#: ../lib_theme/theme_options.php:412
+msgid "Area font"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:230
+msgid "Select the typography you want for your <code>#header_area .widget</code> tags. <span class=\"important\">* Web-safe font.<br/>G Google font.</span>"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:243
+#: ../lib_theme/theme_options.php:307
+#: ../lib_theme/theme_options.php:371
+#: ../lib_theme/theme_options.php:426
+msgid "Area widget title"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:244
+msgid "Select the typography you want for your <code>#header_area .widget h3</code> tags. <span class=\"important\">* Web-safe font.<br/>G Google font.</span>"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:257
+#: ../lib_theme/theme_options.php:321
+#: ../lib_theme/theme_options.php:440
+msgid "Area widget <code>a</code> link text color"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:258
+#: ../lib_theme/theme_options.php:322
+msgid "Pick a custom link color to be applied to text links."
+msgstr ""
+
+#: ../lib_theme/theme_options.php:275
+#: ../lib_theme/theme_widgets.php:71
+msgid "Featured Area"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:294
+msgid "Select the typography you want for your <code>#featured_area .widget</code> tags. <span class=\"important\">* Web-safe font.<br/>G Google font.</span>"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:308
+msgid "Select the typography you want for your <code>#featured_area .widget h3</code> tags. <span class=\"important\">* Web-safe font.<br/>G Google font.</span>"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:339
+#: ../lib_theme/theme_templates.php:162
+#: ../lib_theme/theme_widgets.php:109
+#: ../lib_theme/booking/templates-booking.php:14
+msgid "Main Area"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:358
+msgid "Select the typography you want for your <code>#main_area .widget</code> tags. <span class=\"important\">* Web-safe font.<br/>G Google font.</span>"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:372
+msgid "Select the typography you want for your <code>#main_area .widget h3</code> tags. <span class=\"important\">* Web-safe font.<br/>G Google font.</span>"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:394
+#: ../lib_theme/theme_widgets.php:155
+msgid "Footer Area"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:400
+msgid "Footer background"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:413
+msgid "Select the typography you want for your <code>#footer_area .widget</code> tags. <span class=\"important\">* Web-safe font.<br/>G Google font.</span>"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:427
+msgid "Select the typography you want for your <code>#footer_area .widget h3</code> tags. <span class=\"important\">* Web-safe font.<br/>G Google font.</span>"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:441
+msgid "Pick a custom link color to be applied to <code>#footer_area a</code> text links."
+msgstr ""
+
+#: ../lib_theme/theme_options.php:462
+msgid "Widget Styling"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:465
+msgid "Booking Widget"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:471
+msgid "Widget background"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:495
+msgid "Widget font"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:496
+msgid "Select the typography you want for your <code>.bookwrap .widget</code> tags. <span class=\"important\">* Web-safe font.<br/>G Google font.</span>"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:539
+msgid "Control Navigation font"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:540
+msgid "Select the typography you want. <span class=\"important\">* Web-safe font.<br/>G Google font.</span>"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:562
+msgid "Navigation Menu widget"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:568
+msgid "Menu font"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:569
+msgid "Select the typography you want for your <code>.widget .nav-menu a</code> tags. <span class=\"important\">* Web-safe font.<br/>G Google font.</span>"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:582
+msgid "Menu background"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:583
+msgid "Specify <code>.widget .nav-menu</code> background properties. <span class=\"important\">enter \"none\" if you only want to choose background color and don't want to upload custom background image.</span>"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:606
+msgid "Item <code>:hover</code> and <code>.active</code> background color"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:607
+msgid "Pick a custom link color to be applied to menu items."
+msgstr ""
+
+#: ../lib_theme/theme_options.php:648
+msgid "WooCommerce"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:651
+msgid "General"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:655
+msgid "Custom Placeholder"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:656
+msgid "Upload a custom placeholder to be displayed when there is no product image."
+msgstr ""
+
+#: ../lib_theme/theme_options.php:666
+msgid "Product Archives"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:670
+#: ../lib_theme/theme_options.php:671
+#: ../lib_theme/theme_options.php:712
+#: ../lib_theme/theme_options.php:713
+#: ../lib_theme/cpt/post-type-slides.php:200
+msgid "Full width"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:672
+msgid "Display the product archives in a full-width single column format? (The sidebar is removed)."
+msgstr ""
+
+#: ../lib_theme/theme_options.php:680
+msgid "Product columns"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:681
+msgid "Select how many columns of products you want on product archive pages."
+msgstr ""
+
+#: ../lib_theme/theme_options.php:687
+msgid "Products per page"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:688
+msgid "How many products do you want to display on product archive pages?"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:696
+#: ../lib_theme/theme_options.php:697
+msgid "Add to cart buttons"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:698
+msgid "Display the add to cart buttons (buttons appear on hover)."
+msgstr ""
+
+#: ../lib_theme/theme_options.php:708
+msgid "Product Details"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:714
+msgid "Display the product details in a full-width single column format? (The sidebar is removed)"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:722
+#: ../lib_theme/theme_options.php:723
+msgid "Product tabs"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:724
+msgid "Display the product review / attribute tabs in product details page"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:732
+#: ../lib_theme/theme_options.php:733
+msgid "Related products"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:734
+msgid "Display related products on the product details page"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:742
+msgid "Related product maximum"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:743
+msgid "The maximum number of related products to display."
+msgstr ""
+
+#: ../lib_theme/theme_templates.php:11
+msgid "This field is required. Please enter a value."
+msgstr ""
+
+#: ../lib_theme/theme_templates.php:12
+msgid "Invalid email address."
+msgstr ""
+
+#: ../lib_theme/theme_templates.php:13
+msgid "Contact Form Submission from "
+msgstr ""
+
+#: ../lib_theme/theme_templates.php:14
+msgid "You emailed "
+msgstr ""
+
+#: ../lib_theme/theme_templates.php:15
+msgid "You forgot to enter your"
+msgstr ""
+
+#: ../lib_theme/theme_templates.php:16
+msgid "You entered an invalid"
+msgstr ""
+
+#: ../lib_theme/theme_templates.php:17
+msgid "<b>Thanks!</b> Your email was successfully sent."
+msgstr ""
+
+#: ../lib_theme/theme_templates.php:18
+msgid "There was an error submitting the form."
+msgstr ""
+
+#: ../lib_theme/theme_templates.php:19
+msgid "E-mail has not been setup properly. Please add your contact e-mail!"
+msgstr ""
+
+#: ../lib_theme/theme_templates.php:20
+msgid "Name<span>*</span>"
+msgstr ""
+
+#: ../lib_theme/theme_templates.php:21
+msgid "Email<span>*</span>"
+msgstr ""
+
+#: ../lib_theme/theme_templates.php:22
+msgid "Message<span>*</span>"
+msgstr ""
+
+#: ../lib_theme/theme_templates.php:23
+msgid "Send a copy to yourself"
+msgstr ""
+
+#: ../lib_theme/theme_templates.php:24
+msgid "If you want to submit this form, do not enter anything in this field"
+msgstr ""
+
+#: ../lib_theme/theme_templates.php:25
+#: ../lib_theme/booking/step1.php:62
+msgid "Submit"
+msgstr ""
+
+#: ../lib_theme/theme_templates.php:171
+#: ../lib_theme/theme_widgets.php:134
+#: ../lib_theme/booking/templates-booking.php:23
+#: ../lib_theme/widgets/widget-slider.php:297
+msgid "Content"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:36
+msgid "Full Header Area"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:44
+msgid "Header 1"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:51
+msgid "Header 2"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:60
+msgid "Navigation Area"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:80
+msgid "Full Featured Area"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:88
+msgid "Featured 1"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:96
+msgid "Featured 2"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:118
+msgid "Main Full"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:126
+msgid "Main Col"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:142
+msgid "Sidebar"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:164
+msgid "Footer Full"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:172
+msgid "Footer 1"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:180
+msgid "Footer 2"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:188
+msgid "Footer 3"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:196
+msgid "Footer 4"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:43
+msgid "Select a page"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:44
+msgid "Select a location first, then pick a date and time."
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:45
+msgid "We are closed on this date, pick another one."
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:46
+msgid "We cannot book you for the past date, pick another one."
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:47
+msgid "Thanks, your booking has been received. Expect confirmation email shortly after someone reviews your booking."
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:48
+msgid "No vehicles found."
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:49
+msgid "No extras selected."
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:50
+msgid "No extras available for this car."
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:51
+msgid "Required."
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:52
+msgid "Email is not valid."
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:55
+msgid "Price not defined"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:74
+msgid "Add Vehicle Type"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:75
+#, php-format
+msgid "It appears you have no car types, which are required for booking to work properly.<br/><br/><a href=\"%1$s\">Add car type</a>"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:80
+msgid "Add Vehicle Location"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:81
+#, php-format
+msgid "It appears you have no car locations, which are required for booking to work properly.<br/><br/><a href=\"%1$s\">Add car location</a>"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:86
+msgid "Add Vehicles"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:87
+#, php-format
+msgid "It appears you have no cars, which are required for booking to work properly.<br/><br/><a href=\"%1$s\">Add a car</a>"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:92
+msgid "Add Prices"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:93
+#, php-format
+msgid "It appears you have no prices set for your cars, which are required for booking to work properly.<br/><br/><a href=\"%1$s\">Set a price</a>"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:361
+msgid "Booking #"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:464
+#: ../lib_theme/booking/post-type-bookings.php:286
+msgid "Customer?"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:465
+#: ../lib_theme/booking/post-type-bookings.php:93
+#: ../lib_theme/booking/post-type-bookings.php:287
+#: ../lib_theme/booking/post-type-bookings.php:506
+msgid "Tracking ID"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:466
+#: ../lib_theme/booking/post-type-bookings.php:288
+#: ../lib_theme/booking/post-type-bookings.php:587
+#: ../lib_theme/booking/post-type-settings.php:211
+#: ../lib_theme/booking/step4.php:17
+msgid "Customer Title"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:467
+#: ../lib_theme/booking/post-type-bookings.php:289
+#: ../lib_theme/booking/post-type-bookings.php:600
+#: ../lib_theme/booking/post-type-settings.php:222
+#: ../lib_theme/booking/step4.php:33
+msgid "First Name"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:468
+#: ../lib_theme/booking/post-type-bookings.php:290
+#: ../lib_theme/booking/post-type-bookings.php:605
+#: ../lib_theme/booking/post-type-settings.php:233
+#: ../lib_theme/booking/step4.php:41
+msgid "Last Name"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:469
+#: ../lib_theme/booking/post-type-bookings.php:291
+#: ../lib_theme/booking/post-type-bookings.php:610
+#: ../lib_theme/booking/post-type-bookings.php:624
+#: ../lib_theme/booking/post-type-locations.php:253
+#: ../lib_theme/booking/post-type-settings.php:244
+#: ../lib_theme/booking/step4.php:49
+#: ../lib_theme/booking/step4.php:69
+msgid "Email"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:470
+#: ../lib_theme/booking/post-type-bookings.php:292
+#: ../lib_theme/booking/post-type-bookings.php:615
+#: ../lib_theme/booking/post-type-locations.php:258
+#: ../lib_theme/booking/post-type-settings.php:255
+#: ../lib_theme/booking/step4.php:57
+msgid "Phone"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:471
+#: ../lib_theme/booking/post-type-bookings.php:293
+#: ../lib_theme/booking/post-type-bookings.php:620
+#: ../lib_theme/booking/post-type-settings.php:266
+#: ../lib_theme/booking/step4.php:65
+msgid "Contact Option"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:472
+#: ../lib_theme/booking/post-type-bookings.php:294
+#: ../lib_theme/booking/post-type-bookings.php:630
+#: ../lib_theme/booking/post-type-locations.php:227
+#: ../lib_theme/booking/post-type-settings.php:277
+#: ../lib_theme/booking/step4.php:78
+msgid "Country"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:473
+#: ../lib_theme/booking/post-type-bookings.php:295
+#: ../lib_theme/booking/post-type-bookings.php:636
+#: ../lib_theme/booking/post-type-settings.php:288
+#: ../lib_theme/booking/step4.php:94
+msgid "State/Province"
+msgstr "County/State"
+
+#: ../lib_theme/booking/booking-init.php:474
+#: ../lib_theme/booking/post-type-bookings.php:296
+#: ../lib_theme/booking/post-type-bookings.php:641
+#: ../lib_theme/booking/post-type-locations.php:243
+#: ../lib_theme/booking/post-type-settings.php:299
+#: ../lib_theme/booking/step4.php:102
+msgid "Postcode/ZIP"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:475
+#: ../lib_theme/booking/post-type-bookings.php:297
+#: ../lib_theme/booking/post-type-bookings.php:646
+#: ../lib_theme/booking/post-type-locations.php:248
+#: ../lib_theme/booking/post-type-settings.php:310
+#: ../lib_theme/booking/step4.php:110
+msgid "Address"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:476
+#: ../lib_theme/booking/post-type-bookings.php:298
+#: ../lib_theme/booking/post-type-bookings.php:651
+#: ../lib_theme/booking/post-type-settings.php:332
+#: ../lib_theme/booking/step4.php:126
+msgid "Comments/Questions"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:477
+#: ../lib_theme/booking/post-type-bookings.php:299
+msgid "Vehicle?"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:478
+#: ../lib_theme/booking/post-type-bookings.php:300
+#: ../lib_theme/booking/post-type-cars.php:81
+msgid "Vehicle Name"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:479
+#: ../lib_theme/booking/post-type-bookings.php:301
+msgid "When and Where?"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:480
+#: ../lib_theme/booking/post-type-bookings.php:302
+#: ../lib_theme/booking/post-type-bookings.php:548
+#: ../lib_theme/booking/step1.php:6
+msgid "Pickup Location"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:481
+#: ../lib_theme/booking/post-type-bookings.php:303
+#: ../lib_theme/booking/post-type-bookings.php:554
+#: ../lib_theme/booking/step1.php:34
+msgid "Return Location"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:482
+#: ../lib_theme/booking/post-type-bookings.php:304
+msgid "Start Date and Time"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:483
+#: ../lib_theme/booking/post-type-bookings.php:305
+msgid "Return Date and Time"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:484
+#: ../lib_theme/booking/post-type-bookings.php:306
+#: ../lib_theme/booking/post-type-bookings.php:570
+#: ../lib_theme/booking/post-type-settings.php:321
+msgid "Flight Number"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:485
+#: ../lib_theme/booking/post-type-bookings.php:307
+msgid "Payment?"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:486
+#: ../lib_theme/booking/post-type-bookings.php:311
+#: ../lib_theme/booking/post-type-bookings.php:691
+#: ../lib_theme/booking/step4.php:323
+msgid "Total"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:487
+#: ../lib_theme/booking/post-type-bookings.php:312
+#: ../lib_theme/booking/post-type-bookings.php:698
+#: ../lib_theme/booking/post-type-cars.php:512
+#: ../lib_theme/booking/step4.php:329
+#: ../lib_theme/booking/step4.php:346
+msgid "Deposit"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:488
+#: ../lib_theme/booking/post-type-bookings.php:97
+#: ../lib_theme/booking/post-type-bookings.php:308
+#: ../lib_theme/booking/post-type-bookings.php:523
+#: ../lib_theme/booking/post-type-bookings.php:670
+#: ../lib_theme/booking/shortcodes-booking.php:30
+#: ../lib_theme/booking/step4.php:277
+#: ../lib_theme/booking/step4.php:305
+msgid "Vehicle"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:489
+#: ../lib_theme/booking/post-type-bookings.php:309
+#: ../lib_theme/booking/post-type-bookings.php:677
+#: ../lib_theme/booking/post-type-cars.php:244
+#: ../lib_theme/booking/shortcodes-booking.php:36
+#: ../lib_theme/booking/step4.php:292
+#: ../lib_theme/booking/step4.php:311
+msgid "Extras"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:490
+#: ../lib_theme/booking/post-type-bookings.php:310
+#: ../lib_theme/booking/post-type-bookings.php:684
+#: ../lib_theme/booking/step4.php:317
+msgid "Tax"
+msgstr "VAT"
+
+#: ../lib_theme/booking/booking-init.php:491
+msgid "Next?"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:492
+msgid "Action"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:492
+msgid "Accept or Cancel this booking"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:607
+#: ../lib_theme/booking/post-type-cars.php:412
+#: ../lib_theme/booking/post-type-pricing.php:82
+#: ../lib_theme/booking/post-type-pricing.php:277
+#: ../lib_theme/booking/post-type-settings.php:150
+#: ../lib_theme/booking/templates-booking.php:88
+msgid "per hour"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:607
+#: ../lib_theme/booking/post-type-cars.php:412
+#: ../lib_theme/booking/post-type-cars.php:570
+#: ../lib_theme/booking/post-type-pricing.php:82
+#: ../lib_theme/booking/post-type-pricing.php:277
+#: ../lib_theme/booking/post-type-settings.php:149
+#: ../lib_theme/booking/templates-booking.php:88
+msgid "per day"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:828
+#, php-format
+msgid "Current location: %1$s, %2$s"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:863
+#: ../lib_theme/booking/booking-init.php:865
+#: ../lib_theme/booking/booking-init.php:876
+#, php-format
+msgid "Vehicle already booked from %1$s, %2$s to %3$s, %4$s"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:889
+#, php-format
+msgid "Current car location: %1$s, %2$s"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:1006
+msgid "US Dollars (&#36;)"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:1007
+msgid "Euros (&euro;)"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:1008
+msgid "Pounds Sterling (&pound;)"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:1009
+msgid "Australian Dollars (&#36;)"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:1010
+msgid "Brazilian Real (&#36;)"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:1011
+msgid "Canadian Dollars (&#36;)"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:1012
+msgid "Czech Koruna (&#75;&#269;)"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:1013
+msgid "Danish Krone"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:1014
+msgid "Hong Kong Dollar (&#36;)"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:1015
+msgid "Hungarian Forint"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:1016
+msgid "Israeli Shekel"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:1017
+msgid "Chinese Yuan (&yen;)"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:1018
+msgid "Indian National Rupee (&#8377;)"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:1019
+msgid "Japanese Yen (&yen;)"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:1020
+msgid "Malaysian Ringgits (RM)"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:1021
+msgid "Mexican Peso (&#36;)"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:1022
+msgid "New Zealand Dollar (&#36;)"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:1023
+msgid "Norwegian Krone"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:1024
+msgid "Philippine Pesos"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:1025
+msgid "Polish Zloty"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:1026
+msgid "Singapore Dollar (&#36;)"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:1027
+msgid "Swedish Krona"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:1028
+msgid "Swiss Franc"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:1029
+msgid "Taiwan New Dollars"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:1030
+msgid "Thai Baht"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:1031
+msgid "Turkish Lira (TL)"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:1032
+msgid "South African rand (R)"
+msgstr ""
+
+#: ../lib_theme/booking/booking-init.php:1033
+msgid "Romanian Leu (RON)"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:50
+#: ../lib_theme/booking/post-type-bookings.php:53
+#: ../lib_theme/booking/post-type-bookings.php:54
+msgid "Bookings"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:52
+msgid "Booking"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:55
+#: ../lib_theme/booking/post-type-cars.php:44
+#: ../lib_theme/booking/post-type-locations.php:43
+#: ../lib_theme/booking/post-type-pricing.php:43
+#: ../lib_theme/cpt/post-type-slides.php:54
+msgid "Add New"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:56
+msgid "Add New booking"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:58
+msgid "Edit booking"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:59
+msgid "New booking"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:60
+msgid "View booking"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:61
+msgid "Search bookings"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:62
+msgid "No bookings found"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:63
+msgid "No bookings found in trash"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:64
+msgid "Parent booking"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:66
+msgid "This is where you can create new bookings for your site."
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:94
+msgid "Customer"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:95
+#: ../lib_theme/booking/post-type-bookings.php:560
+msgid "Start Date"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:96
+#: ../lib_theme/booking/post-type-bookings.php:565
+#: ../lib_theme/booking/step1.php:49
+msgid "Return Date"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:98
+#: ../lib_theme/booking/post-type-bookings.php:493
+#: ../lib_theme/widgets/widget-slider.php:306
+msgid "Status"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:100
+msgid "Published"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:143
+#: ../lib_theme/booking/post-type-bookings.php:498
+msgid "Pending"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:145
+#: ../lib_theme/booking/post-type-bookings.php:499
+msgid "Approved"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:147
+#: ../lib_theme/booking/post-type-bookings.php:500
+msgid "Completed"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:149
+#: ../lib_theme/booking/post-type-bookings.php:501
+msgid "Cancelled"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:151
+#: ../lib_theme/booking/post-type-bookings.php:502
+msgid "Refunded"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:486
+msgid "Booking Status"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:494
+msgid "Updating booking status will automatically send email notification to the customer."
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:507
+msgid "Tracking number for this booking. Same as post ID."
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:516
+msgid "Vehicle and Extras"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:529
+#: ../lib_theme/booking/post-type-cars.php:230
+#: ../lib_theme/booking/post-type-cars.php:452
+msgid "Vehicle Extras"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:530
+#: ../lib_theme/booking/post-type-cars.php:355
+msgid "Add more"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:541
+msgid "Date and Location"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:571
+msgid "If available, include both the carrier code and the flight number, like BA2244. This is vital to ensure your vehicle is available if your flight is delayed."
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:580
+msgid "Customer Details"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:591
+#: ../lib_theme/booking/step4.php:21
+msgid "Mr"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:592
+#: ../lib_theme/booking/step4.php:22
+msgid "Mrs"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:593
+#: ../lib_theme/booking/step4.php:23
+msgid "Miss"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:594
+#: ../lib_theme/booking/step4.php:24
+msgid "Dr"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:595
+#: ../lib_theme/booking/step4.php:25
+msgid "Prof"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:596
+#: ../lib_theme/booking/step4.php:26
+msgid "Rev"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:625
+#: ../lib_theme/booking/step4.php:70
+msgid "Phone (SMS)"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:626
+#: ../lib_theme/booking/step4.php:71
+msgid "Phone (Call)"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:663
+msgid "Invoice"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:671
+msgid "enter the car amount"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:678
+msgid "enter the extras amount"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:685
+msgid "enter the tax amount"
+msgstr "enter the VAT amount"
+
+#: ../lib_theme/booking/post-type-bookings.php:692
+msgid "enter the total amount"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:699
+msgid "Amount paid before rental"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:709
+#: ../lib_theme/booking/post-type-settings.php:55
+#: ../lib_theme/booking/step4.php:135
+msgid "Payment"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:716
+msgid "Paid"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:723
+msgid "Remaining"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:742
+#: ../lib_theme/booking/step4.php:145
+msgid "Credit Card"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:749
+#: ../lib_theme/booking/post-type-cars.php:82
+#: ../lib_theme/booking/post-type-cars.php:203
+msgid "Type"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:754
+#: ../lib_theme/booking/step4.php:156
+msgid "Visa"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:755
+#: ../lib_theme/booking/step4.php:157
+msgid "MasterCard"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:756
+#: ../lib_theme/booking/step4.php:158
+msgid "Maestro"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:757
+#: ../lib_theme/booking/step4.php:159
+msgid "AmericanExpress"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:761
+msgid "Number"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:766
+msgid "Expiration Month"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:772
+msgid "Expiration Year"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-bookings.php:778
+msgid "Security Code"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:40
+#: ../lib_theme/booking/post-type-cars.php:42
+#: ../lib_theme/booking/post-type-cars.php:43
+msgid "Vehicles"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:45
+msgid "Add New Vehicle"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:47
+msgid "Edit Vehicle"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:48
+msgid "New Vehicle"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:49
+msgid "View Vehicle"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:50
+msgid "Search Vehicles"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:51
+msgid "No Vehicles found"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:52
+msgid "No Vehicles found in trash"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:53
+msgid "Parent Vehicle"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:55
+msgid "This is where you can create new cars for your site."
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:83
+#: ../lib_theme/booking/post-type-cars.php:320
+msgid "Seats"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:84
+#: ../lib_theme/booking/post-type-cars.php:335
+msgid "Doors"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:85
+#: ../lib_theme/booking/post-type-cars.php:345
+msgid "Transmission"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:86
+msgid "Location"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:87
+msgid "Availability"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:88
+#: ../lib_theme/booking/post-type-cars.php:510
+#: ../lib_theme/booking/post-type-cars.php:555
+#: ../lib_theme/booking/step4.php:279
+msgid "Image"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:128
+msgid "Available Now"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:175
+#, php-format
+msgid "Vehicle already booked <br/> from %1$s, %2$s <br/> to %3$s, %4$s"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:202
+#: ../lib_theme/booking/post-type-cars.php:417
+msgid "Vehicle Types"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:204
+msgid "Search Types"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:205
+msgid "Popular Types"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:206
+msgid "All Types"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:209
+msgid "Edit Type"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:210
+msgid "Update Type"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:211
+msgid "Add New Type"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:212
+msgid "New Type Name"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:213
+msgid "Separate types with commas"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:214
+msgid "Add or remove types"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:215
+msgid "Choose from the most used types"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:216
+msgid "Types"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:231
+msgid "Extra"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:232
+msgid "Search Extras"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:233
+msgid "Popular Extras"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:234
+msgid "All Extras"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:237
+msgid "Edit Extra"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:238
+msgid "Update Extra"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:239
+msgid "Add New Extra"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:240
+msgid "New Extra Name"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:241
+msgid "Separate extras with commas"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:242
+msgid "Add or remove extras"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:243
+msgid "Choose from the most used extras"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:299
+msgid "Vehicle Details"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:306
+msgid "Current Location"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:307
+#: ../lib_theme/booking/post-type-cars.php:314
+msgid "Add new"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:313
+#: ../lib_theme/booking/post-type-pricing.php:87
+#: ../lib_theme/booking/post-type-pricing.php:298
+msgid "Vehicle Type"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:349
+msgid "Manual"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:350
+msgid "Automatic"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:354
+msgid "Available Vehicle Extras"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:361
+msgid "Count"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:362
+msgid "allow more than one car per booking"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:367
+msgid "Vehicle Image"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:368
+msgid "Upload an image or enter an URL."
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:373
+msgid "Vehicle Description"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:381
+msgid "Registration number"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:422
+msgid "Type image"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:434
+msgid "Vehicle Deposit"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:439
+msgid "Type deposit"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:440
+#: ../lib_theme/booking/post-type-cars.php:487
+#: ../lib_theme/booking/post-type-cars.php:570
+msgid "per rental"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:457
+#: ../lib_theme/booking/post-type-cars.php:553
+#: ../lib_theme/booking/post-type-pricing.php:320
+msgid "Price"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:458
+msgid "per extra (without currency symbol)"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:463
+msgid "Quantity"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:464
+msgid "available extras per booking"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:481
+#: ../lib_theme/booking/post-type-cars.php:554
+msgid "Price range"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:492
+msgid "Extra image"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-cars.php:511
+#: ../lib_theme/booking/post-type-locations.php:86
+msgid "Available Vehicles"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-locations.php:39
+#: ../lib_theme/booking/post-type-locations.php:41
+#: ../lib_theme/booking/post-type-locations.php:42
+msgid "Locations"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-locations.php:44
+msgid "Add New Location"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-locations.php:46
+msgid "Edit Location"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-locations.php:47
+msgid "New Location"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-locations.php:48
+msgid "View Location"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-locations.php:49
+msgid "Search Locations"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-locations.php:50
+msgid "No Locations found"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-locations.php:51
+msgid "No Locations found in trash"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-locations.php:52
+msgid "Parent Location"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-locations.php:54
+msgid "This is where you can create new locations for your site."
+msgstr ""
+
+#: ../lib_theme/booking/post-type-locations.php:81
+msgid "Location Title"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-locations.php:82
+msgid "Location Address"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-locations.php:83
+#: ../lib_theme/booking/post-type-locations.php:238
+msgid "City"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-locations.php:84
+msgid "Contact Email"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-locations.php:85
+msgid "Contact Phone"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-locations.php:168
+msgid "Opening time"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-locations.php:177
+msgid "Closing time"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-locations.php:186
+msgid "Closed"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-locations.php:220
+msgid "Location Details"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-locations.php:233
+msgid "State/Province/Region"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-locations.php:267
+msgid "Business Hours"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-locations.php:274
+msgid "Monday"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-locations.php:282
+msgid "Tuesday"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-locations.php:290
+msgid "Wednesday"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-locations.php:298
+msgid "Thursday"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-locations.php:306
+msgid "Friday"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-locations.php:314
+msgid "Saturday"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-locations.php:322
+msgid "Sunday"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-pricing.php:39
+#: ../lib_theme/booking/post-type-pricing.php:41
+#: ../lib_theme/booking/post-type-pricing.php:42
+msgid "Pricing"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-pricing.php:44
+msgid "Add New Price"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-pricing.php:46
+msgid "Edit Price"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-pricing.php:47
+msgid "New Price"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-pricing.php:48
+msgid "View Price"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-pricing.php:49
+msgid "Search Pricing"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-pricing.php:50
+msgid "No Pricing found"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-pricing.php:51
+msgid "No Pricing found in trash"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-pricing.php:52
+msgid "Parent Price"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-pricing.php:54
+msgid "This is where you can create new pricing for your site."
+msgstr ""
+
+#: ../lib_theme/booking/post-type-pricing.php:86
+msgid "Price Title"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-pricing.php:88
+#: ../lib_theme/booking/post-type-pricing.php:304
+msgid "Day Range"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-pricing.php:89
+msgid "Season"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-pricing.php:90
+#, php-format
+msgid "Price (%1$s)"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-pricing.php:114
+#: ../lib_theme/booking/post-type-pricing.php:178
+#: ../lib_theme/booking/post-type-pricing.php:188
+msgid "day "
+msgstr ""
+
+#: ../lib_theme/booking/post-type-pricing.php:115
+msgid " - day "
+msgstr ""
+
+#: ../lib_theme/booking/post-type-pricing.php:291
+msgid "Price Details"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-pricing.php:308
+#: ../lib_theme/booking/post-type-pricing.php:315
+msgid "From"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-pricing.php:309
+#: ../lib_theme/booking/post-type-pricing.php:316
+msgid "To (including)"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-pricing.php:313
+msgid "Season &nbsp; (optional)"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:20
+msgid "Booking Settings"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:21
+msgid "Settings"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:58
+msgid "Locale"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:61
+msgid "Vehicle Selection"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:64
+msgid "Booking Form"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:67
+msgid "Administrator"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:70
+msgid "Notifications"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:73
+msgid "Terms and Conditions"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:95
+msgid "Tax amount"
+msgstr "VAT amount"
+
+#: ../lib_theme/booking/post-type-settings.php:102
+msgid "Deposit amount"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:107
+msgid "Percentage of total (%)"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:108
+msgid "Fixed amount per vehicle type"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:118
+msgid "Thank you page URL"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:124
+msgid "Primary PayPal email address"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:130
+msgid "Allow PayPal payments"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:131
+msgid "Accept PayPal payments"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:137
+msgid "Allow credit card payments"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:138
+msgid "Accept credit cards"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:144
+msgid "Pricing Setup"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:156
+msgid "Currency"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:163
+msgid "Number of decimal places to use"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:169
+msgid "Decimal point symbol"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:175
+msgid "Thousands separator symbol"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:181
+msgid "Currency symbol position"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:186
+msgid "before amount"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:187
+msgid "before amount without trailing space"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:188
+msgid "after amount"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:189
+msgid "after amount without trailing space"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:195
+msgid "Hide unavailable"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:196
+msgid "Hide vehicles that are not available for selected time period"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:203
+msgid "Skip location checking and check availability per time period only"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:216
+#: ../lib_theme/booking/post-type-settings.php:227
+#: ../lib_theme/booking/post-type-settings.php:238
+#: ../lib_theme/booking/post-type-settings.php:249
+#: ../lib_theme/booking/post-type-settings.php:260
+#: ../lib_theme/booking/post-type-settings.php:271
+#: ../lib_theme/booking/post-type-settings.php:282
+#: ../lib_theme/booking/post-type-settings.php:293
+#: ../lib_theme/booking/post-type-settings.php:304
+#: ../lib_theme/booking/post-type-settings.php:315
+#: ../lib_theme/booking/post-type-settings.php:326
+#: ../lib_theme/booking/post-type-settings.php:337
+msgid "Yes"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:217
+#: ../lib_theme/booking/post-type-settings.php:228
+#: ../lib_theme/booking/post-type-settings.php:239
+#: ../lib_theme/booking/post-type-settings.php:250
+#: ../lib_theme/booking/post-type-settings.php:261
+#: ../lib_theme/booking/post-type-settings.php:272
+#: ../lib_theme/booking/post-type-settings.php:283
+#: ../lib_theme/booking/post-type-settings.php:294
+#: ../lib_theme/booking/post-type-settings.php:305
+#: ../lib_theme/booking/post-type-settings.php:316
+#: ../lib_theme/booking/post-type-settings.php:327
+#: ../lib_theme/booking/post-type-settings.php:338
+msgid "Yes, required"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:345
+msgid "Set Admin email"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:351
+msgid "Set Admin name"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:357
+msgid "Set Admin phone"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:363
+msgid "Admin notifications"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:364
+msgid "Disable admin email notifications"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:372
+msgid "Confirmation Email"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:373
+#: ../lib_theme/booking/post-type-settings.php:387
+#: ../lib_theme/booking/post-type-settings.php:401
+#: ../lib_theme/booking/post-type-settings.php:415
+#: ../lib_theme/booking/post-type-settings.php:429
+msgid "Subject"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:380
+msgid "Sent to customer when the booking has been submited."
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:386
+msgid "Approved Email"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:394
+msgid "Sent to customer when the booking status is set to \"Approved\"."
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:400
+msgid "Completed Email"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:408
+msgid "Sent to customer when the booking status is set to \"Completed\"."
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:414
+msgid "Cancelled Email"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:422
+msgid "Sent to customer when the booking status is set to \"Cancelled\"."
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:428
+msgid "Refunded Email"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:436
+msgid "Sent to customer when the booking status is set to \"Refunded\"."
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:443
+msgid "Email shortcodes"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:457
+msgid "Text"
+msgstr ""
+
+#: ../lib_theme/booking/post-type-settings.php:458
+msgid "Customer needs to approve them before booking is successfully completed."
+msgstr ""
+
+#: ../lib_theme/booking/shortcodes-booking.php:42
+#: ../lib_theme/booking/step4.php:235
+msgid "Checkout"
+msgstr "Place  Booking"
+
+#: ../lib_theme/booking/shortcodes-booking.php:192
+#: ../lib_theme/booking/step4.php:246
+msgid "Pickup location"
+msgstr ""
+
+#: ../lib_theme/booking/shortcodes-booking.php:193
+#: ../lib_theme/booking/step4.php:252
+msgid "Pickup date"
+msgstr ""
+
+#: ../lib_theme/booking/shortcodes-booking.php:194
+msgid "Pickup time"
+msgstr ""
+
+#: ../lib_theme/booking/shortcodes-booking.php:195
+#: ../lib_theme/booking/step4.php:258
+msgid "Return location"
+msgstr ""
+
+#: ../lib_theme/booking/shortcodes-booking.php:196
+#: ../lib_theme/booking/step4.php:264
+msgid "Return date"
+msgstr ""
+
+#: ../lib_theme/booking/shortcodes-booking.php:197
+msgid "Return time"
+msgstr ""
+
+#: ../lib_theme/booking/shortcodes-booking.php:215
+msgid " field is empty."
+msgstr ""
+
+#: ../lib_theme/booking/shortcodes-booking.php:231
+#, php-format
+msgid "Today, you cannot book before %s."
+msgstr ""
+
+#: ../lib_theme/booking/shortcodes-booking.php:235
+msgid "Your return date cannot be before the pickup date."
+msgstr ""
+
+#: ../lib_theme/booking/step1.php:11
+msgid "-- select pick-up location --"
+msgstr ""
+
+#: ../lib_theme/booking/step1.php:21
+msgid "Pickup Date"
+msgstr ""
+
+#: ../lib_theme/booking/step1.php:39
+msgid "-- select return location --"
+msgstr ""
+
+#: ../lib_theme/booking/step2.php:4
+#: ../lib_theme/booking/templates-booking.php:48
+msgid "Type:"
+msgstr ""
+
+#: ../lib_theme/booking/step2.php:10
+#: ../lib_theme/booking/templates-booking.php:54
+msgid "Sort:"
+msgstr ""
+
+#: ../lib_theme/booking/step2.php:12
+#: ../lib_theme/booking/templates-booking.php:56
+msgid "Latest first"
+msgstr ""
+
+#: ../lib_theme/booking/step2.php:13
+#: ../lib_theme/booking/templates-booking.php:57
+msgid "Price: low to high"
+msgstr ""
+
+#: ../lib_theme/booking/step2.php:14
+#: ../lib_theme/booking/templates-booking.php:58
+msgid "Price: high to low"
+msgstr ""
+
+#: ../lib_theme/booking/step2.php:15
+#: ../lib_theme/booking/templates-booking.php:59
+msgid "Name: ascending"
+msgstr ""
+
+#: ../lib_theme/booking/step2.php:16
+#: ../lib_theme/booking/templates-booking.php:60
+msgid "Name: descending"
+msgstr ""
+
+#: ../lib_theme/booking/step2.php:29
+msgid "Not Available"
+msgstr ""
+
+#: ../lib_theme/booking/step2.php:40
+#: ../lib_theme/booking/templates-booking.php:124
+msgid "Details"
+msgstr ""
+
+#: ../lib_theme/booking/step2.php:45
+#: ../lib_theme/booking/templates-booking.php:130
+#: ../lib_theme/booking/templates-booking.php:154
+msgid "Book Now"
+msgstr ""
+
+#: ../lib_theme/booking/step3.php:29
+msgid "Proceed to checkout"
+msgstr "Proceed"
+
+#: ../lib_theme/booking/step4.php:6
+msgid "Hours"
+msgstr ""
+
+#: ../lib_theme/booking/step4.php:6
+msgid "Days"
+msgstr ""
+
+#: ../lib_theme/booking/step4.php:14
+msgid "Your Personal Information"
+msgstr ""
+
+#: ../lib_theme/booking/step4.php:118
+msgid "Flight Number (like BA2244)"
+msgstr ""
+
+#: ../lib_theme/booking/step4.php:137
+msgid "Payment Method"
+msgstr ""
+
+#: ../lib_theme/booking/step4.php:142
+msgid "PayPal"
+msgstr ""
+
+#: ../lib_theme/booking/step4.php:152
+msgid "CC Type"
+msgstr "Card Type"
+
+#: ../lib_theme/booking/step4.php:164
+msgid "CC Number"
+msgstr "Card Number"
+
+#: ../lib_theme/booking/step4.php:170
+msgid "Expiration Date"
+msgstr "Expiry Date"
+
+#: ../lib_theme/booking/step4.php:199
+msgid "CC Security Code"
+msgstr "3-digit Security Code"
+
+#: ../lib_theme/booking/step4.php:212
+msgid "You have to agree to the Booking Conditions"
+msgstr "You must agree to the Booking Terms & Conditions and opt-in for Damage Liabilty Insurance"
+
+#: ../lib_theme/booking/step4.php:213
+msgid "I agree to the <a class=\"accordion-toggle\" data-toggle=\"collapse\" href=\"#terms_conditions\">Terms and Conditions</a>."
+msgstr "I agree to the <a class=\"accordion-toggle\" data-toggle=\"collapse\" href=\"#terms_conditions\">Terms & Conditions</a> and <a class=\"accordion-toggle\" data-toggle=\"collapse\" href=\"#damage_insurance\">Damage Liabilty Insurance</a> ."
+
+#: ../lib_theme/booking/step4.php:225
+msgid "Checkout with PayPal"
+msgstr "Process with PayPal"
+
+#: ../lib_theme/booking/step4.php:244
+msgid "Location / Time"
+msgstr ""
+
+#: ../lib_theme/booking/step4.php:244
+#: ../lib_theme/booking/step4.php:277
+#: ../lib_theme/booking/step4.php:292
+msgid "Change"
+msgstr ""
+
+#: ../lib_theme/booking/step4.php:303
+msgid "Estimated Charge"
+msgstr ""
+
+#: ../lib_theme/booking/templates-booking.php:86
+msgid "from"
+msgstr ""
+
+#: ../lib_theme/booking/widget-booking.php:7
+msgid "Add registration form for setting appointments with customers."
+msgstr ""
+
+#: ../lib_theme/booking/widget-booking.php:8
+msgid "Book Online"
+msgstr ""
+
+#: ../lib_theme/cpt/post-type-slides.php:50
+#: ../lib_theme/cpt/post-type-slides.php:52
+#: ../lib_theme/cpt/post-type-slides.php:53
+msgid "Slides"
+msgstr ""
+
+#: ../lib_theme/cpt/post-type-slides.php:55
+msgid "Add New Slide"
+msgstr ""
+
+#: ../lib_theme/cpt/post-type-slides.php:57
+msgid "Edit Slide"
+msgstr ""
+
+#: ../lib_theme/cpt/post-type-slides.php:58
+msgid "New Slide"
+msgstr ""
+
+#: ../lib_theme/cpt/post-type-slides.php:59
+msgid "View Slide"
+msgstr ""
+
+#: ../lib_theme/cpt/post-type-slides.php:60
+msgid "Search Slides"
+msgstr ""
+
+#: ../lib_theme/cpt/post-type-slides.php:61
+msgid "No Slides found"
+msgstr ""
+
+#: ../lib_theme/cpt/post-type-slides.php:62
+msgid "No Slides found in trash"
+msgstr ""
+
+#: ../lib_theme/cpt/post-type-slides.php:63
+msgid "Parent Slide"
+msgstr ""
+
+#: ../lib_theme/cpt/post-type-slides.php:65
+msgid "This is where you can create new slides for your site."
+msgstr ""
+
+#: ../lib_theme/cpt/post-type-slides.php:89
+msgid "Slide Title"
+msgstr ""
+
+#: ../lib_theme/cpt/post-type-slides.php:193
+msgid "Slide Details"
+msgstr ""
+
+#: ../lib_theme/cpt/post-type-slides.php:201
+msgid "Force full width for images and videos. Title and content will not be shown."
+msgstr ""
+
+#: ../lib_theme/cpt/post-type-slides.php:206
+msgid "Upload slide image"
+msgstr ""
+
+#: ../lib_theme/cpt/post-type-slides.php:207
+msgid "Upload image for this slide. It will be floated left from your slide content."
+msgstr ""
+
+#: ../lib_theme/cpt/post-type-slides.php:218
+msgid "Slide content"
+msgstr ""
+
+#: ../lib_theme/cpt/post-type-slides.php:219
+msgid "Enter some content into this area. It will only appear if you do not upload slide image nor embed video code above."
+msgstr ""
+
+#: ../lib_theme/widgets/widget-ads.php:18
+msgid "Add advertising code or banners"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-ads.php:19
+msgid "Ad Space"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-ads.php:67
+msgid "Title (optional):"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-ads.php:71
+msgid "Ad Alignment:"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-ads.php:79
+msgid "Ad Code:"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-ads.php:83
+msgid "or Upload banner image:"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-ads.php:88
+msgid "Target URL:"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-ads.php:92
+msgid "Alt text:"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-contact-info.php:24
+msgid "Share random contact info, like phone, email or Skype"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-contact-info.php:25
+msgid "Contact Info"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-contact-info.php:104
+msgid "Small tag:"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-contact-info.php:107
+msgid "Small text:"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-contact-info.php:110
+msgid "Small Link:"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-contact-info.php:115
+msgid "Large tag:"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-contact-info.php:118
+msgid "Large text:"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-contact-info.php:121
+msgid "Large Link:"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-nav-menu.php:87
+msgid "Select a menu:"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-nav-menu.php:95
+msgid "Vertical menu?"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-slider.php:21
+msgid "Displaying any of your posts inside slider."
+msgstr ""
+
+#: ../lib_theme/widgets/widget-slider.php:23
+msgid "Slideshow"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-slider.php:119
+#: ../lib_theme/widgets/widget-slider.php:133
+#: ../lib_theme/widgets/widget-slider.php:144
+msgid "Continue Reading &rarr;"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-slider.php:296
+#: ../lib_theme/widgets/widget-slider.php:308
+msgid "Category"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-slider.php:300
+msgid "Menu order"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-slider.php:301
+msgid "Mime type (attachments)"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-slider.php:302
+msgid "Modified date"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-slider.php:304
+msgid "Parent ID"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-slider.php:305
+msgid "Randomly"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-slider.php:312
+msgid "Select slides"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-slider.php:314
+msgid "Post type"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-slider.php:316
+msgid "All post types"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-slider.php:333
+msgid "Include slides"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-slider.php:348
+msgid "Exclude slides"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-slider.php:366
+msgid "Include posts (IDs, separated by comma)"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-slider.php:370
+msgid "Exclude posts (IDs, separated by comma)"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-slider.php:377
+msgid "Order"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-slider.php:385
+msgid "Order by"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-slider.php:393
+msgid "Limit"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-slider.php:403
+msgid "Animation options"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-slider.php:406
+msgid "Add pagination?"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-slider.php:410
+msgid "Pause on hover?"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-slider.php:414
+msgid "Next/Prev button?"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-slider.php:417
+msgid "Start with slide #"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-slider.php:425
+msgid "Slideshow speed"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-slider.php:433
+msgid "Animation duration"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-social.php:24
+msgid "Add links to you social profiles"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-social.php:25
+msgid "Social Links"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-social.php:47
+msgid "Facebook"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-social.php:48
+msgid "Twitter"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-social.php:49
+msgid "Flickr"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-social.php:50
+msgid "YouTube"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-social.php:51
+msgid "LinkedIn"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-social.php:52
+msgid "Google+"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-social.php:53
+msgid "Dribble"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-social.php:54
+msgid "Tumblr"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-social.php:103
+msgid "Facebook:"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-social.php:106
+msgid "Twitter:"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-social.php:109
+msgid "Flickr:"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-social.php:112
+msgid "YouTube:"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-social.php:115
+msgid "LinkedIn:"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-social.php:118
+msgid "Google+:"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-social.php:121
+msgid "Dribbble:"
+msgstr ""
+
+#: ../lib_theme/widgets/widget-social.php:124
+msgid "Tumblr:"
+msgstr ""
