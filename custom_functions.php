@@ -56,14 +56,10 @@ function custom_car_doors() {
 }
 
 function modify_contact_methods($profile_fields) {
-
-	$profile_fields['twitter'] = 'Twitter Username';
-	$profile_fields['facebook'] = 'Facebook URL';
-	$profile_fields['gplus'] = 'Google+ URL';
-
 	$profile_fields['gender'] = 'Gender';
+	$profile_fields['aim'] = 'D.O.B.';
 	$profile_fields['occupation'] = 'Occupation';
-	$profile_fields['dob'] = 'DOB';
+	
 	$profile_fields['address1'] = 'Address 1';
 	$profile_fields['address2'] = 'Address 2';
 	$profile_fields['town'] = 'Town';
@@ -85,15 +81,6 @@ function modify_contact_methods($profile_fields) {
 	$profile_fields['vat'] = 'VAT Receipt?';
 	$profile_fields['notes'] = 'Notes';
 	
-	
-	
-	
-	
-	
-	
-
-
-	unset($profile_fields['aim']);
 
 	return $profile_fields;
 
