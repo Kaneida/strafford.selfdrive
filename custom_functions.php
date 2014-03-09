@@ -61,18 +61,12 @@ function modify_contact_methods($profile_fields) {
 	
 	$profile_fields['user_login'] = 'Licence Number';
 	
-	$profile_fields['user_url'] = 'Street Number';
-
-
-	$profile_fields['yim'] = 'Postcode';
-	$profile_fields['jabber/gtalk'] = 'Secret';
 	$profile_fields['nickname'] = 'Phone Number';
 
-
 	$profile_fields['gender'] = 'Gender';
-	$profile_fields['aim'] = 'D.O.B.';
-	$profile_fields['description'] = 'Occupation';
-	
+	$profile_fields['dob'] = 'D.O.B.';
+	$profile_fields['description'] = 'Street Number';
+	$profile_fields['yim'] = 'Postcode';
 	$profile_fields['town'] = 'Town';
 	$profile_fields['county'] = 'County';
 	$profile_fields['fax'] = 'Fax';
@@ -87,6 +81,7 @@ function modify_contact_methods($profile_fields) {
 	$profile_fields['med_con'] = 'Medical Condition?';
 	$profile_fields['vat'] = 'VAT Receipt?';
 	$profile_fields['notes'] = 'Notes';
+	$profile_fields['aim'] = 'Secret';
 	
 
 	return $profile_fields;
