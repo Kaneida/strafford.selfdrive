@@ -56,20 +56,24 @@ function custom_car_doors() {
 }
 
 function modify_contact_methods($profile_fields) {
+	
+	$profile_fields['user_login'] = 'Licence Number';
+
+	$profile_fields['user_url'] = 'Street Address';
+	$profile_fields['yim'] = 'Postcode';
+	$profile_fields['jabber/gtalk'] = 'Secret';
+
+
 	$profile_fields['gender'] = 'Gender';
 	$profile_fields['aim'] = 'D.O.B.';
 	$profile_fields['occupation'] = 'Occupation';
 	
-	$profile_fields['address1'] = 'Address 1';
-	$profile_fields['address2'] = 'Address 2';
 	$profile_fields['town'] = 'Town';
 	$profile_fields['county'] = 'County';
-	$profile_fields['postcode'] = 'Postcode';
 	$profile_fields['phone'] = 'Phone';
 	$profile_fields['mobile'] = 'Mobile';
 	$profile_fields['fax'] = 'Fax';
 	$profile_fields['nationality'] = 'Nationality';
-	$profile_fields['licence_num'] = 'Licence Number';
 	$profile_fields['licence_nat'] = 'Licence Nationality';
 	$profile_fields['lenght_held'] = 'Length Held';
 	$profile_fields['expiry'] = 'Expires';
