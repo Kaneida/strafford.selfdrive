@@ -66,7 +66,7 @@ function modify_contact_methods($profile_fields) {
 
 	$profile_fields['gender'] = 'Gender';
 	$profile_fields['aim'] = 'D.O.B.';
-	$profile_fields['occupation'] = 'Occupation';
+	$profile_fields['description'] = 'Occupation';
 	
 	$profile_fields['town'] = 'Town';
 	$profile_fields['county'] = 'County';
