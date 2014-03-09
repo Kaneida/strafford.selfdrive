@@ -57,11 +57,16 @@ function custom_car_doors() {
 
 function modify_contact_methods($profile_fields) {
 	
+	$twitterHandle = get_the_author_meta('twitter');
+	
 	$profile_fields['user_login'] = 'Licence Number';
+	
+	$profile_fields['user_url'] = 'Street Number';
 
-	$profile_fields['user_url'] = 'Street Address';
+
 	$profile_fields['yim'] = 'Postcode';
 	$profile_fields['jabber/gtalk'] = 'Secret';
+	$profile_fields['nickname'] = 'Phone Number';
 
 
 	$profile_fields['gender'] = 'Gender';
@@ -70,8 +75,6 @@ function modify_contact_methods($profile_fields) {
 	
 	$profile_fields['town'] = 'Town';
 	$profile_fields['county'] = 'County';
-	$profile_fields['phone'] = 'Phone';
-	$profile_fields['mobile'] = 'Mobile';
 	$profile_fields['fax'] = 'Fax';
 	$profile_fields['nationality'] = 'Nationality';
 	$profile_fields['licence_nat'] = 'Licence Nationality';
