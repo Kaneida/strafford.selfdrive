@@ -1,8 +1,5 @@
 <?php 
 
-/*************************************************************
-* Do not modify unless you know what you're doing, SERIOUSLY!
-*************************************************************/
 
 /* BizzThemes WordPress theme framework by Zeljan Topic */
 
