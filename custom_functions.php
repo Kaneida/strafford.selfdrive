@@ -59,9 +59,9 @@ function modify_contact_methods($profile_fields) {
 	
 	$twitterHandle = get_the_author_meta('twitter');
 	
-	$profile_fields['user_login'] = 'Licence Number';
+	$profile_fields['user_login'] = 'Phone Number';
 	
-	$profile_fields['nickname'] = 'Phone Number';
+	$profile_fields['nickname'] = 'Licence Number';
 
 	$profile_fields['gender'] = 'Gender';
 	$profile_fields['dob'] = 'D.O.B.';
