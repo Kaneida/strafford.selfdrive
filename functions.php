@@ -35,3 +35,92 @@
 //** MAKE THEME TRANSLATABLE **//
 	load_theme_textdomain( 'bizzthemes', BIZZ_LIB_CUSTOM . '/lang' );
 	
+	
+/* DIGITAL DESIGNS EDITS BELOW*/
+
+	
+	//** ADD PROFILE IMAGE **//
+	
+	<table class="form-table">
+ 
+<tr>
+<th><label for="pic">Profile Image</label></th>
+ 
+<td>
+<img src="<?php echo esc_attr( get_the_author_meta( 'pic', $user->ID ) ); ? >">
+<input type="text" name="pic" id="pic" value="< ?php echo esc_attr( get_the_author_meta( 'pic', $user->ID ) ); ?>" class="regular-text" /><input type='button' class="button" value="Upload" id="upload" />
+<span class="description">Select an image and upload it for use on your profile.</span>
+</td>
+</tr>
+ 
+</table>
+
+
+<?php }
+
+function zkr_profile_upload_js() {
+?>
+<?php
+}
+add_action('admin_head','zkr_profile_upload_js');
+wp_enqueue_script('media-upload');
+wp_enqueue_script('thickbox');
+wp_enqueue_style('thickbox');
+	
+	//** REMOVE USER FIELDS **//
+	
+
+function hide_instant_messaging( $contactmethods ) {
+unset($contactmethods['aim']);
+unset($contactmethods['yim']);
+
+	//** ADD USER FIELDS **//
+	
+	add_action( 'show_user_profile', 'social_fields' );
+add_action( 'edit_user_profile', 'social_fields' );
+ 
+function social_fields( $user ) { ? >
+ 
+<h3>Social Media Profiles</h3>
+ 
+<table class="form-table">
+ 
+ 
+<tr>
+<th><label for="social">Facebook</label></th>
+ 
+<td>
+<input type="text" name="Facebook" id="Facebook" value="http://www.facebook.com/USERNAME" class="regular-text" />
+<span class="description">Please replace USERNAME with your Facebook username.</span>
+</td>
+</tr>
+ 
+<tr>
+<th><label for="social">Twitter</label></th>
+ 
+<td>
+<input type="text" name="Twitter" id="Twitter" value="http://www.twitter.com/USERNAME" class="regular-text" />
+<span class="description">Please replace USERNAME with your Twitter username.</span>
+</td>
+</tr>
+ 
+</table>
+return $contactmethods;
+}
+add_filter('user_contactmethods','hide_instant_messaging',10,1);
+
+//** CLOSE OUT **//
+
+add_action( 'personal_options_update', 'save_social_fields' );
+add_action( 'edit_user_profile_update', 'save_social_fields' );
+ 
+function save_social_fields( $user_id ) {
+ 
+if ( !current_user_can( 'edit_user', $user_id ) )
+return false;
+ 
+update_usermeta( $user_id, 'pic', $_POST['pic'] );
+update_usermeta( $user_id, 'Facebook', $_POST['Facebook'] );
+update_usermeta( $user_id, 'Twitter', $_POST['Twitter'] );
+}
+
